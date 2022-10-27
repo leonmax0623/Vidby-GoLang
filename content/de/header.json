@@ -1,0 +1,41 @@
+{
+  "left": [
+    {
+      "text": "Produkte",
+      "link": "/products",
+      "new-tab": false
+    },
+    {
+      "text": "Vorteile",
+      "link": "/advantages",
+      "new-tab": false
+    },
+    {
+      "text": "Investoren",
+      "link": "/investors",
+      "new-tab": false
+    },
+    {
+      "text": "Über uns",
+      "link": "/about",
+      "new-tab": false
+    }
+  ],
+  "right": [
+    {
+      "text": "Preise",
+      "link": "/prices",
+      "new-tab": false
+    },
+    {
+      "text": "Demo anfordern",
+      "link": "https://calendly.com/vidby-com",
+      "new-tab": true
+    }
+  ],
+  "login": {
+    "text": "Anmelden",
+    "link": "https://vidby.com/start/index",
+    "new-tab": false
+  }
+}

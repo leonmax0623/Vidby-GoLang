@@ -1,0 +1,51 @@
+{
+  "seo": {
+    "title": "Vidby - Investors",
+    "description": "Try vidby now and expand your business to international markets. Translate and dub videos with up to 99% accuracy in 70+ languages using AI.",
+    "custom-scripts-and-styles": {
+      "before-head": " \u003cscript src=\"https://hub.aktionariat.com/widgets/widgets-ext.js\" async onLoad=\"loadTokenData('VIDS')\"\u003e\u003c/script\u003e\n\u003clink rel=\"preload\" href=\"https://hub.aktionariat.com/widgets/brokerbot-v2.css\" as=\"style\" onLoad=\"this.onload=null;this.rel='stylesheet'\"/\u003e\n                    \u003cscript src=\"https://hub.aktionariat.com/widgets/brokerbot-v2.js\" async\u003e\u003c/script\u003e\n\u003clink rel=\"preload\" href=\"https://hub.aktionariat.com/widgets/shareholder-registration-v2.css\" as=\"style\" onLoad=\"this.onload=null;this.rel='stylesheet'\"/\u003e\n                    \u003cscript src=\"https://hub.aktionariat.com/widgets/shareholder-registration-v2.js\" async\u003e\u003c/script\u003e\n\u003clink rel=\"preload\" href=\"https://hub.aktionariat.com/widgets/widgets.css\" as=\"style\" onLoad=\"this.onload=null;this.rel='stylesheet'\"/\u003e",
+      "before-body": ""
+    }
+  },
+  "main-section": {
+    "title": "vidby's \u003cspan class=\"selected\"\u003eAI translator creates\u003c/span\u003e new business in global markets - and strengthens collaboration and knowledge",
+    "content": "\u003cp\u003eIntercultural collaboration, smooth knowledge exchange and fast, spontaneous creativity - this requires the medium of video with optimal and fast translation.\u003c/p\u003e\u003cp\u003eWith vidby’s advanced technologies, videos of any length and complexity are translated quickly and affordably. From understanding comes joint and strong action. For your success. For one world. Economically and socially.\u003c/p\u003e\u003cp\u003eThe applications are as endless as the creativity of your people. Conquer new markets faster than ever. Use local knowledge. Educate efficiently and embed knowledge in people’s minds and hearts faster than ever.\u003c/p\u003e",
+    "image": "/image/invest-pic.png",
+    "youtube": "<iframe src=\"https://www.youtube.com/embed/OPlMCubCBRs\" title=\"vidby for investors.  How to buy shares\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+  },
+  "invest-section": {
+    "title": "Invest in vidby",
+    "content": "\u003cp\u003evidby has tokenized some of its shares and trades them on \u003ca href=\"https://www.aktionariat.com/\"\u003eaktionariat.com\u003c/a\u003e under the ticker symbol VIDS.\u003c/p\u003e\u003cp\u003eAn investment in vidby is highly attractive, as evidenced by our growth figures and the keen interest from Fortune 500 companies already in the first months after its launch. vidby shares are an ideal diversification tool in the attractive high-tech and automation environment. Artificial intelligence and data are the drivers of the digitalized economy.\u003c/p\u003e\u003cp\u003eUse Aktionariat’s VIDS brokerbot to acquire shares of vidby. To buy or sell vidby shares, use the widget to the right. Set up your \u003ca href=\"https://www.aktionariat.com/documentation/how-to-buy-aktionariat-shares\"\u003ewallet\u003c/a\u003e beforehand.\u003c/p\u003e",
+    "hint": "\u003cp\u003eDo you need help? Here is a guide: \u003ca href=\"https://www.aktionariat.com/documentation/funding-your-wallet\"\u003ehttps://www.aktionariat.com/documentation/funding-your-wallet\u003c/a\u003e\u003c/p\u003e",
+    "registration-agreement-button": "Registration Agreement",
+    "token-holder-agreement-button": "Token Holder Agreement"
+  },
+  "hold-tokenize-section": {
+    "title": "\u003cp\u003eHold tokenized shares and traditional shares securely in self-custody with our \u003cspan class=\"selected\"\u003ePortfolio App\u003c/span\u003e\u003c/p\u003e",
+    "content": "\u003cp\u003eOur mobile wallet is the safe deposit box for your shares. Connect your mobile wallet to a Brokerbot to buy stocks and access them anytime. Register your personal details in the wallet before buying to be automatically recorded in the company's share register.\u003c/p\u003e\u003cp\u003eSee the market value of your shares at any time and transfer them directly to another wallet if needed. The wallet also acts as an authentication tool for a company's signatories, e.g., to approve transactions.\u003c/p\u003e",
+    "buttons-link": {
+      "appstore": "https://apps.apple.com/ch/app/aktionariat/id1518326813",
+      "google-play": "https://play.google.com/store/apps/details?id=com.aktionariat.app"
+    },
+    "image": "/image/mobile.png"
+  },
+  "equity-structure-section": {
+    "title": "Equity structure",
+    "content": "\u003cp\u003eVidby AG is a Swiss corporation with its registered office in Rotkreuz ZG and the commercial register number CH-170.3.046.218-5. Its purpose is to develop and market technologies for new language interfaces and the automated translation of videos.\u003c/p\u003e\u003cp\u003eIts capital is divided into \u003cspan class=\"akt-totalshares\"\u003e\u003c/span\u003e shares with a par value of CHF 1.00 each, of which \u003cspan class=\"akt-treasuryshares\"\u003e\u003c/span\u003e shares are held by the company itself. Based on a registration agreement, \u003cspan class=\"akt-totalsupply\"\u003e\u003c/span\u003e shares of vidby AG are registered as ERC-20 tokens named <span class=\"akt-name\"></span> on the Ethereum blockchain. The current market price per share is \u003cspan class=\"akt-price\"\u003e\u003c/span\u003e, which corresponds to a market capitalization of \u003cspan class=\"akt-marketcap\"\u003e\u003c/span\u003e.\u003c/p\u003e"
+  },
+  "trade-history-section": {
+    "title": "\u003cp\u003eTrade history\u003c/p\u003e",
+    "content": "This widget shows the last share transactions. The complete trade history is also available for download (\u003ca class=\"akt-tradesfile\"\u003eCSV file\u003c/a\u003e)"
+  },
+  "form": {
+    "title": "If you would like to be informed about future \u003cspan class=\"selected\"\u003etransactions\u003c/span\u003e and other important events related to our \u003cspan class=\"selected\"\u003estock tokens\u003c/span\u003e, you can sign up here."
+  },
+  "share-register": {
+    "title": "Share register",
+    "content": "\u003cp\u003eShareholders can register their shares either with the accompanying form, using a wallet of their choice, or by holding their shares with the \u003ca href=\"https://www.aktionariat.com/documentation/how-to-buy-aktionariat-shares\"\u003eShareholder Wallet App\u003c/a\u003e for iOS or Android.\u003c/p\u003e\u003cp\u003eAfter registration, newly acquired blockchain shares will automatically be added to the shareholder register in your name. For more information, please see our privacy policy.\u003c/p\u003e\u003cp\u003eAll fields are required\u003c/p\u003e"
+  },
+  "business-reports": {
+    "title": "\u003cp\u003eBusiness reports\u003c/p\u003e",
+    "content": "\u003cp\u003evidby AG was founded in 2021 with CHF 1,500,000 capital and closed the year with about CHF 500,000 liquidity.\u003c/p\u003e\u003cp\u003eAccording to our projections, we will reach break-even by 2024. We need investments for the further development of the technology platform and for the development of new markets and applications.\u003c/p\u003e\u003cp\u003evidby already has a weighty commitment from investors in the start-up phase. We would like to broaden this in the near future.\u003c/p\u003e"
+  }
+}

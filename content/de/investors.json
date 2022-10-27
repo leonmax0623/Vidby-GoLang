@@ -1,0 +1,45 @@
+{
+  "seo": {
+    "title": "Vidby - Investoren",
+    "description": "Try vidby now and expand your business to international markets. Translate and dub videos with up to 99% accuracy in 70+ languages using AI."
+  },
+  "business-reports": {
+    "content": "<p>Die vidby AG wurde 2021 mit 1’500’000 CHF Kapital gegründet und schloss das Jahr mit rund 500’000 CHF Liquidität ab.</p><p>Wir werden nach unseren Projektionen den Break-even bis 2024 Jahren erreichen. Für die Weiterentwicklung der Technologieplattform und für das Erschliessen neuer Märkte und Anwendungen benötigen wir Investitionen.</p><p>vidby verfügt bereits in der Startphase über ein gewichtiges Engagement von Investoren.\nWir möchten dies in naher Zukunft breiter aufstellen.</p>",
+    "title": "Geschäftsberichte"
+  },
+  "equity-structure-section": {
+    "content": "<p>Die vidby AG ist eine Schweizer Aktiengesellschaft mit Sitz in Rotkreuz ZG und der Handelsregisternummer CH-170.3.046.218-5.  Ihr Zweck besteht darin, Technologien für neue Sprachinterfaces und die automatisierte Übersetzung von Videos zu entwickeln und zu vermarkten.</p><p>Ihr Kapital ist in <span class=\"akt-totalshares\">1′700′000</span> Aktien mit einem Nennwert von je 1,00 CHF eingeteilt, wovon <span class=\"akt-treasuryshares\">143′422</span> Aktien von der Gesellschaft selbst gehalten werden. Auf der Grundlage einer Registrierungsvereinbarung werden <span class=\"akt-totalsupply\">1′450′000</span> Aktien der vidby AG als ERC-20-Token mit dem Namen <span class=\"akt-name\"></span> auf der Ethereum-Blockchain registriert. Der aktuelle Marktpreis pro Aktie beträgt <span class=\"akt-price\">13.00 CHF</span>, was einer Marktkapitalisierung von <span class=\"akt-marketcap\">20′228′509 CHF</span> entspricht.</p>",
+    "title": "Eigenkapitalstruktur"
+  },
+  "form": {
+    "title": "Wenn Sie über künftige <span class=\"selected\">Transaktionen</span> und andere wichtige Ereignisse in Bezug auf unsere <span class=\"selected\">Aktien-Token informiert</span> werden möchten, können Sie sich hier anmelden."
+  },
+  "hold-tokenize-section": {
+    "content": "<p>Our mobile wallet is the safe deposit box for your shares. Connect your mobile wallet to a Brokerbot to buy stocks and access them anytime. Register your personal details in the wallet before buying to be automatically recorded in the company's share register.</p><p>See the market value of your shares at any time and transfer them directly to another wallet if needed. The wallet also acts as an authentication tool for a company's signatories, e.g., to approve transactions.</p>",
+    "title": "Hold tokenized shares and traditional shares securely in self-custody with our <span class=\"selected\">Portfolio App</span>",
+    "buttons-link": {
+      "appstore": "https://apps.apple.com/ch/app/aktionariat/id1518326813",
+      "google-play": "https://play.google.com/store/apps/details?id=com.aktionariat.app"
+    }
+  },
+  "invest-section": {
+    "content": "<p>vidby hat einen Teil seiner Aktien tokenisiert und handelt sie auf <a href=\"https://www.aktionariat.com/\">aktionariat.com</a> unter dem Tickersymbol VIDS.</p><p>Ein Investment in vidby ist höchst attraktiv, das bezeugen unsere Wachstumszahlen und das rege Interesse von Fortune-500-Unternehmen bereits in den ersten Monaten nach der Gründung. vidby-Aktien sind ein ideales Diversifizierungsinstrument im attraktiven High-tech- und Automatisierungsumfeld. Künstliche Intelligenz und Daten sind die Treiber der digitalisierten Wirtschaft.</p><p>Mit dem VIDS Brokerbot von Aktionariat erwerben Sie Aktien von vidby. Nutzen Sie zum Kauf oder Verkauf von vidby Aktien das nebenstehende Widget. Richten Sie zuvor Ihr <a href=\"https://www.aktionariat.com/documentation/how-to-buy-aktionariat-shares\">Wallet</a> ein.</p>",
+    "hint": "Brauchst du Hilfe? Hier gibts eine Anleitung: <a href=\"https://www.aktionariat.com/documentation/funding-your-wallet\">https://www.aktionariat.com/documentation/funding-your-wallet</a>",
+    "registration-agreement-button": "Registration Agreement",
+    "title": "Investieren Sie in vidby",
+    "token-holder-agreement-button": "Token Holder Agreement"
+  },
+  "main-section": {
+    "content": "<p>Interkulturelle Zusammenarbeit, reibungsloser Wissenstausch und schnelle, spontane Kreativität – dazu braucht es das Medium Video mit optimaler und schneller Übersetzung.</p><p>Mit vidbys fortgeschrittenen Technologien sind Videos jeder Länge und Komplexität schnell und günstig übersetzt.\nAus Verständnis erwächst gemeinsames und starkes Handeln. Für Ihren Erfolg. Für eine Welt. Wirtschaftlich und gesellschaftlich.</p><p>Die Anwendungen sind unendlich wie die Kreativität Ihrer Mitarbeitenden. Erobern Sie neue Märkte schneller den je. Nutzen Sie lokales Wissen. Schulen Sie effizient und verankern Sie Wissen schneller denn je in den Köpfen und Herzen der Menschen.</p>",
+    "title": "vidbys <span class=\"selected\">KI-Übersetzer schafft</span> neues Business in globalen Märkten – und stärkt Zusammenarbeit und Wissen",
+    "youtube": "<iframe src=\"https://www.youtube.com/embed/OPlMCubCBRs\" title=\"vidby for investors.  How to buy shares\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+  },
+  "share-register": {
+    "content": "<p>Aktionäre können ihre Aktien entweder mit dem nebenstehenden Formular registrieren, indem sie ein Wallet ihrer Wahl verwenden, oder indem sie ihre Aktien mit der <a href=\"https://www.aktionariat.com/documentation/how-to-buy-aktionariat-shares\">Aktionariat Wallet App</a> für iOS oder Android halten.</p><p>Nach der Registrierung werden neu erworbene Blockchain-Aktien automatisch auf Ihren Namen in das Aktionärsregister aufgenommen. Weitere Informationen finden Sie in unseren Datenschutzrichtlinien.</p><p>alle Felder sind erforderlich.</p>",
+    "title": "Aktienregister"
+  },
+  "trade-history-section": {
+    "content": "Dieses Widget zeigt die letzten Share Transactions. Die komplette Trade History ist auch als Download erhältlich (<a href=\"https://api.aktionariat.com/trades.csv?ticker=VIDS\" class=\"akt-tradesfile\">CSV-Datei</a>).",
+    "title": "Trade history"
+  }
+}

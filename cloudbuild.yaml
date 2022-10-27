@@ -1,0 +1,23 @@
+steps:
+  - name: gcr.io/cloud-builders/docker
+    args:
+      - '-c'
+      - >
+        echo "Repository: $REPO_NAME"
+
+        TAG=$TAG_NAME
+
+        echo "TAG: $${TAG}"
+
+        echo "Image:
+        europe-west1-docker.pkg.dev/$PROJECT_ID/docker/$REPO_NAME:$${TAG}"
+
+        docker build -t
+        europe-west1-docker.pkg.dev/$PROJECT_ID/docker/$REPO_NAME:$${TAG} .
+
+        echo "Push image"
+
+        docker push
+        "europe-west1-docker.pkg.dev/$PROJECT_ID/docker/$REPO_NAME:$${TAG}"
+    entrypoint: /bin/bash
+timeout: 1200s

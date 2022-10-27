@@ -1,0 +1,210 @@
+{
+  "seo": {
+    "title": "Vidby - Pricing",
+    "description": "Try vidby now and expand your business to international markets. Translate and dub videos with up to 99% accuracy in 70+ languages using AI."
+  },
+  "hints": {
+    "1": "Unused video minutes will be applied to the following month.",
+    "2": "The notice period is 30 days. In this case, any existing credit balance is forfeited."
+  },
+  "calculator": {
+    "accuracy": "Translation accuracy",
+    "accuracy-80": "80% (automatic verification)",
+    "accuracy-99": "99% (self verification)",
+    "accuracy-99-2": "99% (checking by a specialist) ",
+    "button": "Get results by email",
+    "cost": "Order cost",
+    "discount": "Discount",
+    "min": "min",
+    "n-of-new-langs": "Number of new languages",
+    "result": "Result",
+    "source-lang": "Source language",
+    "time": "Production time",
+    "title": "Calculate cost",
+    "total": "Total",
+    "video-length": "Video length",
+    "tooltip": "Coupon for the first order"
+  },
+  "get-email-modal": {
+    "title": "Get the calculation to the email, and a \u003cspan class=\"selected\"\u003e10$ discount\u003c/span\u003e on first order",
+    "agreement": "I agree to the \u003cspan class=\"selected\"\u003e<a href=\"/privacy-policy\" target=\"_blank\">processing of personal data<a>\u003c/span\u003e",
+    "button": "Submit",
+    "label": "your e-mail"
+  },
+  "thanks-modal": {
+    "title": "Thanks!",
+    "description": "A REMINDER ABOUT THE DISCOUNT HAS BEEN SENT TO YOUR E-MAIL"
+  },
+  "form": {
+    "required": "Required field",
+    "invalid-email": "Please enter a valid email address",
+    "success": "Thank you! Your data has been submitted",
+    "error": "Error. Refresh the page and try again"
+  },
+  "products": [
+    {
+      "title": "Price for small business",
+      "prices": [
+        {
+          "additional": "For 1 minute of the new video",
+          "advantages": [
+            "Synchronization of video and voice",
+            "More than \u003cspan class=\"selected\"\u003e70 languages\u003c/span\u003e",
+            "Female and male voices",
+            "API for developers and corporate clients",
+            "Convenient and payment methods",
+            "Ability to edit the transcript and get excellent translation quality",
+            "80% translation accuracy"
+          ],
+          "button": {
+            "text": "Order",
+            "link": "https://vidby.com",
+            "new-tab": false,
+            "min": true
+          },
+          "description": "",
+          "price": {
+            "main": {
+              "price": "\u003csup\u003e$\u003c/sup\u003e0.9",
+              "plan": ""
+            },
+            "second": {
+              "price": "",
+              "plan": ""
+            }
+          },
+          "title": "\u003cp\u003eFast\u003c/p\u003e"
+        },
+        {
+          "additional": "For 1 minute of the new video",
+          "advantages": [
+            "Synchronization of video and voice",
+            "More than \u003cspan class=\"selected\"\u003e70 languages\u003c/span\u003e",
+            "Female and male voices",
+            "API for developers and corporate clients",
+            "Convenient and payment methods",
+            "Ability to edit the transcript and get excellent translation quality",
+            "From order to delivery: 24 hours",
+            "99% translation accuracy",
+            "100% voice and video synchronization accuracy"
+          ],
+          "button": {
+            "text": "Order",
+            "link": "https://vidby.com",
+            "new-tab": false,
+            "min": true
+          },
+          "description": "",
+          "price": {
+            "main": {
+              "price": "\u003csup\u003e$\u003c/sup\u003e5.9",
+              "plan": "",
+              "info": "for 1 language"
+            },
+            "additional": {
+              "price": "\u003csup\u003e$\u003c/sup\u003e0.9",
+              "plan": "",
+              "info": "in each new language"
+            },
+            "second": {
+              "price": "",
+              "plan": ""
+            }
+          },
+          "title": "\u003cp\u003eExpert\u003c/p\u003e"
+        }
+      ]
+    },
+    {
+      "title": "Prices for business customers",
+      "prices": [
+        {
+          "advantages": [
+            "Total length of original videos \u003cspan class=\"selected\"\u003emax. 80 minutes\u003c/span\u003e",
+            "More than \u003cspan class=\"selected\"\u003e70 languages\u003c/span\u003e",
+            "Maximum length of translated videos: \u003cspan class=\"selected\"\u003e300 minutes\u003c/span\u003e if translated into 10 languages",
+            "Different voices: \u003cspan class=\"selected\"\u003e1\u003c/span\u003e",
+            "From order to delivery: \u003cspan class=\"selected\"\u003e48 hours\u003c/span\u003e",
+            "99% accuracy of translation"
+          ],
+          "button": {
+            "text": "Buy a subscription",
+            "link": "https://vidby.com/subscribe/1",
+            "new-tab": false
+          },
+          "description": "The basic subscription is ideal for short movies with one speaking person.",
+          "price": {
+            "main": {
+              "price": "\u003csup\u003e$\u003c/sup\u003e750",
+              "plan": "USD\n/mo"
+            },
+            "second": {
+              "price": "\u003csup\u003e$\u003c/sup\u003e700*",
+              "plan": "USD\n/mo"
+            }
+          },
+          "title": "\u003cp\u003eBasis\u003c/p\u003e"
+        },
+        {
+          "advantages": [
+            "Total length of original videos \u003cspan class=\"selected\"\u003emax. 200 minutes\u003c/span\u003e",
+            "More than \u003cspan class=\"selected\"\u003e70 languages\u003c/span\u003e",
+            "Maximum length of translated videos: \u003cspan class=\"selected\"\u003e750 minutes\u003c/span\u003e if translated into 10 languages",
+            "Different voices: \u003cspan class=\"selected\"\u003e3\u003c/span\u003e",
+            "From order to delivery: \u003cspan class=\"selected\"\u003e48 hours\u003c/span\u003e",
+            "99% accuracy of translation",
+            "100% accuracy of voice and video synchronization",
+            "Personal support"
+          ],
+          "button": {
+            "text": "Buy a subscription",
+            "link": "https://vidby.com/subscribe/2",
+            "new-tab": false
+          },
+          "description": "The Extended subscription is ideal for demanding movies. It offers more video minutes, more speakers, and perfect voice and video sync as well as support.",
+          "price": {
+            "main": {
+              "price": "\u003csup\u003e$\u003c/sup\u003e1450",
+              "plan": "USD\n/mo"
+            },
+            "second": {
+              "price": "\u003csup\u003e$\u003c/sup\u003e1350*",
+              "plan": "USD\n/mo"
+            }
+          },
+          "title": "Extended"
+        },
+        {
+          "advantages": [
+            "Total length of original videos \u003cspan class=\"selected\"\u003emax. 400 minutes\u003c/span\u003e",
+            "More than \u003cspan class=\"selected\"\u003e70 languages\u003c/span\u003e",
+            "Maximum length of translated videos: \u003cspan class=\"selected\"\u003e1500 minutes\u003c/span\u003e if translated into 10 languages",
+            "Different voices: \u003cspan class=\"selected\"\u003e10\u003c/span\u003e",
+            "From order to delivery: \u003cspan class=\"selected\"\u003e24 hours\u003c/span\u003e",
+            "99% accuracy of translation",
+            "100% accuracy of voice and video synchronization",
+            "Personal support",
+            "\u003cspan class=\"selected\"\u003eCoaching\u003c/span\u003e and the ability to edit transcripts on your own. Increase the number of minutes of new videos to \u003cspan class=\"selected\"\u003e2500 minutes\u003c/span\u003e"
+          ],
+          "button": {
+            "text": "Buy a subscription",
+            "link": "https://vidby.com/subscribe/3",
+            "new-tab": false
+          },
+          "description": "The Professional subscription is ideal for the most demanding applications. It offers all the benefits of Extended and extensive post-processing and training options.",
+          "price": {
+            "main": {
+              "price": "\u003csup\u003e$\u003c/sup\u003e2950",
+              "plan": "USD\n/mo"
+            },
+            "second": {
+              "price": "\u003csup\u003e$\u003c/sup\u003e2650*",
+              "plan": "USD\n/mo"
+            }
+          },
+          "title": "Professional"
+        }
+      ]
+    }
+  ]
+}

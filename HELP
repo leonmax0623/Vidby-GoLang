@@ -1,0 +1,19 @@
+(curl http://localhost:8001/api/blog/en/article-previews).Content
+(curl http://localhost:8001/api/blog/en/article/testUrl2).Content  
+
+Invoke-WebRequest -Method PUT `
+                  -Body '{"title":"title","author":"me","content":"Hello world it put"}' `
+                   -Uri http://localhost:8001/api/blog/en/article/testUrl11
+
+
+
+
+
+Invoke-WebRequest -Method PUT `
+                  -Body '{"title":"NEWtest title33333","author":"NEW me NEW","description":" NEW simple desc","content":"Hello world it put NEW"}' `
+                   -Uri http://localhost:8001/api/blog/en/article/3
+
+
+
+Invoke-WebRequest -Method DELETE  -Uri http://localhost:8001/api/blog/en/article/4
+                   

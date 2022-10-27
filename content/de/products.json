@@ -1,0 +1,67 @@
+{
+  "seo": {
+    "title": "Vidby - Vorteile",
+    "description": "Try vidby now and expand your business to international markets. Translate and dub videos with up to 99% accuracy in 70+ languages using AI."
+  },
+  "advantages_section": {
+    "advantages": [
+      {
+        "content": "Unsere Technologien ermöglichen Ihnen qualitativ hochwertige Videoübersetzungen in über <strong>70 Sprachen</strong>. Damit können Sie Ihre Videos mit allen Geschichten, Botschaften und Inhalte erfolgreich in die Welt tragen.",
+        "title": "Reichweite, Aufrufe und Abonnenten steigern",
+        "icon": "/icon/product-icon-1.svg"
+      },
+      {
+        "content": "Mit vidby erreichen Sie im Handumdrehen neue Kunden <strong>aus anderen Ländern</strong>. Das eröffnet Ihnen unter anderem neue Geschäftsmöglichkeiten und Mehreinnahmen aus Ihren digitalen Werbekampagnen.",
+        "title": "Höheres Einkommen und neue Geschäftsideen realisieren",
+        "icon": "/icon/product-icon-2.svg"
+      },
+      {
+        "content": "Wir haben keine Ressourcen für die Entwicklung einer Übersetzungssoftware gescheut, die Ihnen sowohl <strong>Qualität als auch Geschwindigkeit bietet.</strong> Das Ergebnis: eine Minute Originalvideo wird in nur etwa zwei Minuten vollständig für Sie übersetzt und synchronisiert.",
+        "title": "Schnelles Übersetzungsergebnis",
+        "icon": "/icon/product-icon-3.svg"
+      },
+      {
+        "content": "Mit ein paar Klicks erhalten Sie Ihre Videoübersetzung und -synchronisierung zum günstigen Tarif. Sie brauchen keine komplizierten Verträge mehr, keine Synchronsprecher, Tonmeister, Übersetzer oder teures Studioequipment. Videoübersetzungen sind <strong>effizient und kostengünstig</strong>.",
+        "title": "Minimale Investition, maximales Ergebnis und Qualität",
+        "icon": "/icon/product-icon-4.svg"
+      }
+    ],
+    "title": "Unsere Produkte bringen Ihnen Vorteile"
+  },
+  "develop_section": {
+    "content": "vidby entwickelt und forscht an neuen, hochentwickelten Sprachinterfaces für eine natürliche Interaktion.\nDas Ziel: Passend zu den Protagonistinnen und Protagonisten der Videos bieten sich unterschiedliche Stimmfarben mit einer Vielzahl an Gefühlsausdrücken an. Die Stimmen lassen sich klar einer Alterskategorie und einem biologischen Geschlecht zuweisen.\n\nvidbys Sprachinterfaces vermögen in Zukunft sogar Gefühle zu vermitteln wie Freude, Zorn, Erstaunen oder Traurigkeit. Die hochentwickelte Übersetzungstechnologie von vidby erkennt dereinst sogar Emotionen und Intonationen. Sie definiert für die Echtzeitübersetzung die Satzgrenzen.\n\nSprache und Musik lassen sich dann auch nachträglich aus einer Audiodatei entfernen. Die Rechtschreibung und Zeichensetzung erfolgt automatisch.",
+    "title": "Wir entwickeln und forschen an neuen Produkten",
+    "card": {
+      "1": {
+        "items": [
+          "Freude",
+          "Trauer",
+          "Ärger",
+          "Überraschung",
+          "Furcht/Angst",
+          "Ekel"
+        ],
+        "title": "Emotionen"
+      },
+      "2": {
+        "items": [
+          "Kinder",
+          "Erwachsene",
+          "Teenager",
+          "Senioren"
+        ],
+        "title": "Sprachsynthesizer"
+      },
+      "title": "Unsere laufenden Entwicklungen:"
+    }
+  },
+  "main_section": {
+    "button": {
+      "text": "Videoübersetzung starten",
+      "link": "https://vidby.com/",
+      "new-tab": false
+    },
+    "content": "Start-ups und KMUs nutzen unsere Software ebenso wie grosse, international tätige Organisationen, NGO sowie Influencer und Blogger.\n\nMit Vidby können sie kostengünstiger und effektiver in neue Märkte vordringen, internationale Teams führen und Wissen unabhängig von Standort oder Sprache verankern.\n\nVidby forscht und arbeitet auch in den Bereichen Live-Übersetzung sowie Konferenzübersetzung gleichzeitig in über 70 Sprachen – in allen Sprachpaarungen.",
+    "title": "<span class=\"selected\">Künstliche Intelligenz</span> von vidby übersetzt und vertont Videos"
+  }
+}

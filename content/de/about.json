@@ -1,0 +1,96 @@
+{
+  "seo": {
+
+    "title": "Vidby - Über uns",
+    "description": "Try vidby now and expand your business to international markets. Translate and dub videos with up to 99% accuracy in 70+ languages using AI."
+  },
+  "commitment-section": {
+    "content": "Wir glauben an eine Welt des grenzenlosen Wissens und des einfachen Austausches. Das Medium Video sorgt für eine schnelle und nachhaltige Verbreitung von Wissen und stärkt soziale Beziehungen",
+    "title": "Unser Bekenntnis",
+    "image": "/image/about-pic-1.png",
+    "blurred-image": "/image/about-pic-blur.png"
+  },
+  "main-section": {
+    "goals": [
+      {
+        "date": "Sep 2021",
+        "achieved": true,
+        "text": "Eintragung der vidby AG",
+        "selected": false
+      },
+      {
+        "date": "Oct 2021",
+        "achieved": true,
+        "text": "Markteinführung der ersten kommerziellen Version",
+        "selected": false
+      },
+      {
+        "date": "Nov 2021",
+        "achieved": true,
+        "text": "Testen von Marketinghypothesen",
+        "selected": false
+      },
+      {
+        "date": "Dec 2021",
+        "achieved": true,
+        "text": "Verbesserung des Bestellabwicklungsformulars",
+        "selected": false
+      },
+      {
+        "date": "Jan 2022",
+        "achieved": true,
+        "text": "Verbesserung der Übersetzungsqualität",
+        "selected": false
+      },
+      {
+        "date": "Feb 2022",
+        "achieved": true,
+        "text": "Aktualisierter Transkript-Editor",
+        "selected": false
+      },
+      {
+        "date": "Mar 2022",
+        "achieved": true,
+        "text": "Abo für Geschäftskunden",
+        "selected": false
+      },
+      {
+        "date": "Apr 2022",
+        "achieved": true,
+        "text": "Partnerschaft mit großen Influencer-Netzwerken",
+        "selected": false
+      },
+      {
+        "date": "May 2022",
+        "achieved": true,
+        "text": "Einstieg in den Online-Bildungsmarkt",
+        "selected": false
+      },
+      {
+        "date": "2022",
+        "achieved": false,
+        "text": "Entwicklung von Sprachtechnologien (neue Stimmen aufgeschlüsselt nach Alter der Emotionen)",
+        "selected": true
+      },
+      {
+        "date": "2023",
+        "achieved": false,
+        "text": "Eintritt in den US-Markt",
+        "selected": false
+      }
+    ],
+    "mission": {
+      "content": "Jeden Video-Content für jeden Menschen weltweit zugänglich machen. Für ein besseres Verständnis, Diversität und miteinander verbundene Menschen und Märkte. vidby – <span class=\"selected\">sprachliche Vielfalt und Wissen erhalten</span>.\n\nMit vidby erhalten interkulturelle Teams eine einfache und schnelle Technologie zur automatischen Übersetzung von Videos. Das bewegte Bildmedium erhält damit in der interkulturellen Zusammenarbeit eine neue Rolle beim Aufbau von Wissen und zur Vermittlung von Inhalten und Botschaften.",
+      "title": "Unsere Mission"
+    },
+    "story": {
+      "content": "vidby basiert auf fortgeschrittenen Methoden und Algorithmen zur automatischen Übersetzung von Video-Tonspuren. Ein internationales Team aus Wissenschaftern, Business- und Marketingexperten nutzt die Technologie für eine einzigartige SaaS-Anwendung: <a href=\"http://vidby.com\">vidby.com</a>.\n\nDie im Herbst 2021 gegründete vidby AG mit Sitz in der Schweiz vermarket die Technologie für Video-, Marketing- und Kommunikationsprofis.",
+      "title": "vidby’s story"
+    },
+    "title": "Videos automatisch übersetzen: <span class=\"selected\">grenzenloses Wissen</span> für internationale <span class=\"selected\">Teams und Organisationen.</span>"
+  },
+  "start-translation-section": {
+    "button": "Videoübersetzung starten",
+    "title": "<div class=\"selected\"><p>vidby - sprachliche</p><p>Vielfalt und Wissen erhalten</p></div>"
+  }
+}

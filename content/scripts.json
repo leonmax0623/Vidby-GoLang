@@ -1,0 +1,52 @@
+{
+  "global": {
+    "inside-head": "\u003c!-- Google Tag Manager --\u003e\n\u003cscript\u003e(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'\u0026l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-KJX3GWZ');\u003c/script\u003e\n\u003c!-- End Google Tag Manager --\u003e\n",
+    "body-start": "\u003c!-- Google Tag Manager (noscript) --\u003e\n\u003cnoscript\u003e\u003ciframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-KJX3GWZ\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"\u003e\u003c/iframe\u003e\u003c/noscript\u003e\n\u003c!-- End Google Tag Manager (noscript) --\u003e\n",
+    "body-end": ""
+  },
+  "products": {
+    "inside-head": "",
+    "body-start": "",
+    "body-end": ""
+  },
+  "customers": {
+    "inside-head": "",
+    "body-start": "",
+    "body-end": ""
+  },
+  "investors": {
+    "inside-head": "",
+    "body-start": "",
+    "body-end": ""
+  },
+  "about": {
+    "inside-head": "",
+    "body-start": "",
+    "body-end": ""
+  },
+  "prices": {
+    "inside-head": "",
+    "body-start": "",
+    "body-end": ""
+  },
+  "voices": {
+    "inside-head": "",
+    "body-start": "",
+    "body-end": ""
+  },
+  "landing": {
+    "inside-head": "",
+    "body-start": "",
+    "body-end": ""
+  },
+  "privacyPolicy": {
+    "inside-head": "",
+    "body-start": "",
+    "body-end": ""
+  },
+  "termsOfUse": {
+    "inside-head": "",
+    "body-start": "",
+    "body-end": ""
+  }
+}

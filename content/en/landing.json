@@ -1,0 +1,1241 @@
+{
+  "seo": {
+    "title": "Vidby - Landing",
+    "description": "Try vidby now and expand your business to international markets. Translate and dub videos with up to 99% accuracy in 70+ languages using AI.",
+    "custom-scripts-and-styles": {
+      "before-head": "",
+      "before-body": ""
+    }
+  },
+  "header": {
+    "left": [
+      {
+        "text": "Advantages",
+        "link": "#advantages",
+        "new-tab": false
+      },
+      {
+        "text": "How it works",
+        "link": "#how-it-works",
+        "new-tab": false
+      },
+      {
+        "text": "Examples",
+        "link": "#examples",
+        "new-tab": false
+      },
+      {
+        "text": "Reviews",
+        "link": "#reviews",
+        "new-tab": false
+      }
+    ],
+    "right": [
+      {
+        "text": "Pricing",
+        "link": "#pricing",
+        "new-tab": false
+      },
+      {
+        "text": "Request demo",
+        "link": "https://calendly.com/vidby-com",
+        "new-tab": false
+      }
+    ],
+    "login": {
+      "text": "Login",
+      "link": "https://vidby.com/start/index",
+      "new-tab": false
+    }
+  },
+  "main": {
+    "title": "\u003cspan class=\"selected\"\u003eFast translation\u003c/span\u003e<br>and dubbing \u003cbr\u003eof videos\u003cbr\u003e",
+    "content": "Just paste a link or upload a video that you want to translate",
+    "button": {
+      "text": "Start now",
+      "link": "https://vidby.com/",
+      "new-tab": false
+    },
+    "widget": {
+      "title": "Your video. \u003cspan class=\"selected\"\u003eWhole world.\u003c/span\u003e\u003cbr\u003e",
+      "video": "video"
+    },
+    "videos-translation": "Video with translation",
+    "videos": [
+      {
+        "language": {
+          "code": "af-ZA",
+          "language": "Afrikaans (South Africa)"
+        },
+        "source": "https://player.vimeo.com/video/729924057?h=01f69e6314"
+      },
+      {
+        "language": {
+          "code": "am-ET",
+          "language": "Amharic (Ethiopia)"
+        },
+        "source": "https://player.vimeo.com/video/730256593?h=dcd2592ad2"
+      },
+      {
+        "language": {
+          "code": "ar-SA",
+          "language": "Arabic (Saudi Arabia)"
+        },
+        "source": "https://player.vimeo.com/video/728854557?h=6b0a25a363"
+      },
+      {
+        "language": {
+          "code": "bg-BG",
+          "language": "Bulgarian (Bulgaria)"
+        },
+        "source": "https://player.vimeo.com/video/729930980?h=d40f87983b"
+      }, 
+      {
+        "language": {
+          "code": "bn-IN",
+          "language": "Bangla (India)"
+        },
+        "source": "https://player.vimeo.com/video/729926884?h=a98e1653e3"
+      },
+      {
+        "language": {
+          "code": "ca-ES",
+          "language": "Catalan (Spain)"
+        },
+        "source": "https://player.vimeo.com/video/729967610?h=c01eb475cc"
+      }, 
+      {
+        "language": {
+          "code": "cs-CZ",
+          "language": "Czech (Czechia)"
+        },
+        "source": "https://player.vimeo.com/video/729556417?h=86e1d842d6"
+      },
+      {
+        "language": {
+          "code": "cy-GB",
+          "language": "Welsh (United Kingdom)"
+        },
+        "source": "https://player.vimeo.com/video/729933735?h=a484ff2379"
+      }, 
+      {
+        "language": {
+          "code": "da-DK",
+          "language": "Danish (Denmark)"
+        },
+        "source": "https://player.vimeo.com/video/729952197?h=b00321e7a0"
+      },
+      {
+        "language": {
+          "code": "de-DE",
+          "language": "German (Germany)"
+        },
+        "source": "https://player.vimeo.com/video/729521397?h=a81be397c3"
+      }, 
+      {
+        "language": {
+          "code": "el-GR",
+          "language": "Greek (Greece)"
+        },
+        "source": "https://player.vimeo.com/video/729948827?h=4ab46794a4"
+      },
+      {
+        "language": {
+          "code": "en-US",
+          "language": "English (United States)"
+        },
+        "source": "https://player.vimeo.com/video/729576492?h=a333ced0a2"
+      }, 
+      {
+        "language": {
+          "code": "es-ES",
+          "language": "Spanish (Spain)"
+        },
+        "source": "https://player.vimeo.com/video/729534583?h=ed8e99fa81"
+      },
+      {
+        "language": {
+          "code": "et-EE",
+          "language": "Estonian (Estonia)"
+        },
+        "source": "https://player.vimeo.com/video/730105869?h=b9a3ceaf78"
+      }, 
+      {
+        "language": {
+          "code": "fa-IR",
+          "language": "Persian (Iran)"
+        },
+        "source": "https://player.vimeo.com/video/730010670?h=ce210d1e3e"
+      },
+      {
+        "language": {
+          "code": "fi-FI",
+          "language": "Finnish (Finland)"
+        },
+        "source": "https://player.vimeo.com/video/730101230?h=811f2a2a3d"
+      }, 
+      {
+        "language": {
+          "code": "fil-PH",
+          "language": "Filipino (Philippines)"
+        },
+        "source": "https://player.vimeo.com/video/730098922?h=cd1ac022ca"
+      },
+      {
+        "language": {
+          "code": "fr-FR",
+          "language": "French (France)"
+        },
+        "source": "https://player.vimeo.com/video/729530532?h=9a4eeed3eb"
+      }, 
+      {
+        "language": {
+          "code": "ga-IE",
+          "language": "Irish (Ireland)"
+        },
+        "source": "https://player.vimeo.com/video/729962048?h=c0253df0c4"
+      },
+      {
+        "language": {
+          "code": "gl-ES",
+          "language": "Galician (Spain)"
+        },
+        "source": "https://player.vimeo.com/video/729946075?h=974b0a0a68"
+      }, 
+      {
+        "language": {
+          "code": "gu-IN",
+          "language": "Gujarati (India)"
+        },
+        "source": "https://player.vimeo.com/video/729950503?h=789f0a98b0"
+      },
+      {
+        "language": {
+          "code": "he-IL",
+          "language": "Hebrew (Israel)"
+        },
+        "source": "https://player.vimeo.com/video/729956177?h=a1f9e6e7b8"
+      }, 
+      {
+        "language": {
+          "code": "hi-IN",
+          "language": "Hindi (India)"
+        },
+        "source": "https://player.vimeo.com/video/729553910?h=c6cf64b346"
+      },
+      {
+        "language": {
+          "code": "hr-HR",
+          "language": "Croatian (Croatia)"
+        },
+        "source": "https://player.vimeo.com/video/730103222?h=2d753f1c2a"
+      }, 
+      {
+        "language": {
+          "code": "hu-HU",
+          "language": "Hungarian (Hungary)"
+        },
+        "source": "https://player.vimeo.com/video/729936314?h=c487be459a"
+      },
+      {
+        "language": {
+          "code": "id-ID",
+          "language": "Indonesian (Indonesia)"
+        },
+        "source": "https://player.vimeo.com/video/729958351?h=3a2a60e1c3"
+      }, 
+      {
+        "language": {
+          "code": "is-IS",
+          "language": "Icelandic (Iceland)"
+        },
+        "source": "https://player.vimeo.com/video/729960199?h=09fe7f6a1d"
+      },
+      {
+        "language": {
+          "code": "it-IT",
+          "language": "Italian (Italy)"
+        },
+        "source": "https://player.vimeo.com/video/729538156?h=37f61de600"
+      }, 
+      {
+        "language": {
+          "code": "ja-JP",
+          "language": "Japanese (Japan)"
+        },
+        "source": "https://player.vimeo.com/video/730110423?h=055612c9fe"
+      },
+      {
+        "language": {
+          "code": "jv-ID",
+          "language": "Javanese (Indonesia)"
+        },
+        "source": "https://player.vimeo.com/video/730107995?h=c9146cc065"
+      }, 
+      {
+        "language": {
+          "code": "kk-KZ",
+          "language": "Kazakh (Kazakhstan)"
+        },
+        "source": "https://player.vimeo.com/video/729963782?h=6ccf98539d"
+      },
+      {
+        "language": {
+          "code": "km-KH",
+          "language": "Khmer (Cambodia)"
+        },
+        "source": "https://player.vimeo.com/video/730260014?h=abf7c599f0"
+      }, 
+      {
+        "language": {
+          "code": "kn-IN",
+          "language": "Kannada (India)"
+        },
+        "source": "https://player.vimeo.com/video/729965475?h=35c2df4327"
+      },
+      {
+        "language": {
+          "code": "ko-KR",
+          "language": "Korean (South Korea)"
+        },
+        "source": "https://player.vimeo.com/video/729969656?h=7a86eb5b1b"
+      }, 
+      {
+        "language": {
+          "code": "lo-LA",
+          "language": "Lao (Laos)"
+        },
+        "source": "https://player.vimeo.com/video/729971922?h=07bddc51f9"
+      },
+      {
+        "language": {
+          "code": "lt-LT",
+          "language": "Lithuanian (Lithuania)"
+        },
+        "source": "https://player.vimeo.com/video/729975773?h=0bac255f45"
+      },
+      {
+        "language": {
+          "code": "lv-LV",
+          "language": "Latvian (Latvia)"
+        },
+        "source": "https://player.vimeo.com/video/729973944?h=f22fc1f890"
+      }, 
+      {
+        "language": {
+          "code": "mk-MK",
+          "language": "Macedonian (North Macedonia)"
+        },
+        "source": "https://player.vimeo.com/video/729994407?h=46f23e9ae3"
+      },  
+       {
+        "language": {
+          "code": "ml-IN",
+          "language": "Malayalam (India)"
+        },
+        "source": "https://player.vimeo.com/video/729983690?h=08374f44e1"
+      },
+      {
+        "language": {
+          "code": "mr-IN",
+          "language": "Marathi (India)"
+        },
+        "source": "https://player.vimeo.com/video/729989942?h=56be64572a"
+      }, 
+      {
+        "language": {
+          "code": "ms-MY",
+          "language": "Malay (Malaysia)"
+        },
+        "source": "https://player.vimeo.com/video/729981000?h=eee67b7e83"
+      },
+      {
+        "language": {
+          "code": "mt-MT",
+          "language": "Maltese (Malta)"
+        },
+        "source": "https://player.vimeo.com/video/729986550?h=c27e4bcef9"
+      },
+      {
+        "language": {
+          "code": "my-MM",
+          "language": "Burmese (Myanmar (Burma))"
+        },
+        "source": "https://player.vimeo.com/video/729928802?h=40626e783a"
+      }, 
+      {
+        "language": {
+          "code": "nb-NO",
+          "language": "Norwegian Bokmål (Norway)"
+        },
+        "source": "https://player.vimeo.com/video/730000187?h=30195d8662"
+      },  
+      {
+        "language": {
+          "code": "nl-NL",
+          "language": "Dutch (Netherlands)"
+        },
+        "source": "https://player.vimeo.com/video/729544849?h=07be70e8e2"
+      },
+      {
+        "language": {
+          "code": "pa-IN",
+          "language": "Punjabi (Gurmukhi, India)"
+        },
+        "source": "https://player.vimeo.com/video/730006920?h=a75d20ca0c"
+      }, 
+      {
+        "language": {
+          "code": "pl-PL",
+          "language": "Polish (Poland)"
+        },
+        "source": "https://player.vimeo.com/video/729547672?h=d26a39ce67"
+      },  
+      {
+        "language": {
+          "code": "ps-AF",
+          "language": "Pashto (Afghanistan)"
+        },
+        "source": "https://player.vimeo.com/video/730258268?h=30e7ebb375"
+      },
+      {
+        "language": {
+          "code": "pt-PT",
+          "language": "Portuguese (Portugal)"
+        },
+        "source": "https://player.vimeo.com/video/729580800?h=3a635d762d"
+      }, 
+      {
+        "language": {
+          "code": "ro-RO",
+          "language": "Romanian (Romania)"
+        },
+        "source": "https://player.vimeo.com/video/730013137?h=9814d41b23"
+      },
+      {
+        "language": {
+          "code": "ru-RU",
+          "language": "Russian (Russia)"
+        },
+        "source": "https://player.vimeo.com/video/728903677?h=5c22df6dbf"
+      },
+      {
+        "language": {
+          "code": "si-LK",
+          "language": "Sinhala (Sri Lanka)"
+        },
+        "source": "https://player.vimeo.com/video/730018832?h=8534e30314"
+      },
+      {
+        "language": {
+          "code": "sk-SK",
+          "language": "Slovak (Slovakia)"
+        },
+        "source": "https://player.vimeo.com/video/730023638?h=606a41dc55"
+      },
+      {
+        "language": {
+          "code": "sl-SI",
+          "language": "Slovenian (Slovenia)"
+        },
+        "source": "https://player.vimeo.com/video/730030505?h=216fab8338"
+      },
+      {
+        "language": {
+          "code": "so-SO",
+          "language": "Somali (Somalia)"
+        },
+        "source": "https://player.vimeo.com/video/730033316?h=bf9e339bd4"
+      },
+      {
+        "language": {
+          "code": "sr-RS",
+          "language": "Serbian (Cyrillic, Serbia)"
+        },
+        "source": "https://player.vimeo.com/video/729558867?h=89568afb7e"
+      },
+      {
+        "language": {
+          "code": "su-ID",
+          "language": "Sundanese (Latin, Indonesia)"
+        },
+        "source": "https://player.vimeo.com/video/730079254?h=4f81242fb3"
+      },
+      {
+        "language": {
+          "code": "sv-SE",
+          "language": "Swedish (Sweden)"
+        },
+        "source": "https://player.vimeo.com/video/729561796?h=108ebe05a3"
+      },
+      {
+        "language": {
+          "code": "sw-TZ",
+          "language": "Swahili (Tanzania)"
+        },
+        "source": "https://player.vimeo.com/video/730076278?h=63ed8356fc"
+      },
+      {
+        "language": {
+          "code": "ta-IN",
+          "language": "Tamil (India)"
+        },
+        "source": "https://player.vimeo.com/video/730085455?h=d9b282b881"
+      },
+       {
+        "language": {
+          "code": "te-IN",
+          "language": "Telugu (India)"
+        },
+        "source": "https://player.vimeo.com/video/730088715?h=b148f95a15"
+      },
+      {
+        "language": {
+          "code": "th-TH",
+          "language": "Thai (Thailand)"
+        },
+        "source": "https://player.vimeo.com/video/730081861?h=6991bd771e"
+      },
+      {
+        "language": {
+          "code": "tr-TR",
+          "language": "Turkish (Turkey)"
+        },
+        "source": "https://player.vimeo.com/video/729550710?h=211a96c626"
+      },
+      {
+        "language": {
+          "code": "uk-UA",
+          "language": "Ukrainian (Ukraine)"
+        },
+        "source": "https://player.vimeo.com/video/728771914?h=8be063d1c7"
+      },
+      {
+        "language": {
+          "code": "ur-PK",
+          "language": "Urdu (Pakistan)"
+        },
+        "source": "https://player.vimeo.com/video/730096497?h=e8e33419d8"
+      },
+      {
+        "language": {
+          "code": "uz-UZ",
+          "language": "Uzbek (Latin, Uzbekistan)"
+        },
+        "source": "https://player.vimeo.com/video/730093859?h=ca56ad5209"
+      },
+      {
+        "language": {
+          "code": "vi-VN",
+          "language": "Vietnamese (Vietnam)"
+        },
+        "source": "https://player.vimeo.com/video/729940205?h=147e19e732"
+      },
+      {
+        "language": {
+          "code": "yue-HK",
+          "language": "Cantonese (Traditional, Hong Kong SAR China)"
+        },
+        "source": "https://player.vimeo.com/video/730262358?h=eaa278287e"
+      },
+      {
+        "language": {
+          "code": "zh-CN",
+          "language": "Chinese (Simplified, China)"
+        },
+        "source": "https://player.vimeo.com/video/729541574?h=c341f3cf0e"
+      },
+      {
+        "language": {
+          "code": "zu-ZA",
+          "language": "Zulu (South Africa)"
+        },
+        "source": "https://player.vimeo.com/video/729954475?h=c3a6e99171"
+      }      
+    ]
+  },
+  "advantages": {
+    "title": "Advantages of working\u003cbr\u003ewith \u003cspan class=\"selected\"\u003evidby\u003c/span\u003e",
+    "advantages": [
+      {
+        "title": "\u003cspan class=\"selected\"\u003eIncrease reach,\u003c/span\u003e\u003cbr\u003eviews and\u003cbr\u003esubscribers",
+        "content": "Vidby\u0026#x27;s technologies enable video translation in over \u003cspan class=\"selected\"\u003e\u003ca target=\"_self\" href=\"https://vidby.com/landing#languages\"\u003e50 different languages\u003c/a\u003e\u003c/span\u003e. Thus, your videos will become available to the whole world, which means that more people will be able to see them. Your audience will constantly grow with subscribers from other countries.",
+        "image": "/image/fiches-1.jpg"
+      },
+      {
+        "title": "Increased\u003cbr\u003e\u003cspan class=\"selected\"\u003eincome\u003c/span\u003e",
+        "content": "If you publish commercial videos, then with the help of Vidby technologies you can attract new clients to your business from different countries. Plus, you\u0026#x27;ll get additional monetization on new video views.",
+        "image": "/image/fiches-2.jpg"
+      },
+      {
+        "title": "\u003cspan class=\"selected\"\u003eFast\u003c/span\u003e \u003cbr\u003etranslation \u003cbr\u003eresult",
+        "content": "Vidby technology does it all in minutes. You do not need to wait days and months, as is the case now in the translation market.",
+        "image": "/image/fiches-3.jpg"
+      },
+      {
+        "title": "\u003cspan class=\"selected\"\u003eMinimum\u003c/span\u003e\u003cbr\u003einvestment,\u003cbr\u003e\u003cspan class=\"selected\"\u003eMaximum\u003c/span\u003e result\u003cbr\u003eand quality",
+        "content": "You no longer need complicated contracts, dubbing actors, sound editors, translators and expensive studio equipment. Vidby technologies will solve all these problems quickly, efficiently and inexpensively.",
+        "image": "/image/fiches-4.jpg"
+      }
+    ]
+  },
+  "benefits": [
+    {
+      "content": "\u003cspan class=\"selected\"\u003e70+\u003c/span\u003e languages\u003cbr\u003etranslation",
+      "image": "/image/pluses-1.png",
+      "height": 120
+    },
+    {
+      "content": "Data\u003cbr\u003e\u003cspan class=\"selected\"\u003econfidentiality\u003c/span\u003e",
+      "image": "/image/pluses-2.png",
+      "height": 100
+    },
+    {
+      "content": "Translation\u003cbr\u003e\u003cspan class=\"selected\"\u003espeed\u003c/span\u003e",
+      "image": "/image/pluses-3.png",
+      "height": 103
+    },
+    {
+      "content": "\u003cspan class=\"selected\"\u003e24/7\u003c/span\u003e transfers\u003cbr\u003eanywhere in world",
+      "image": "/image/pluses-4.png",
+      "height": 116
+    },
+    {
+      "content": "\u003cspan class=\"selected\"\u003e100%\u003c/span\u003e process\u003cbr\u003eautomation",
+      "image": "/image/pluses-5.png",
+      "height": 119
+    },
+    {
+      "content": "\u003cspan class=\"selected\"\u003eHigh-quality\u003c/span\u003e\u003cbr\u003etranslation",
+      "image": "/image/pluses-6.png",
+      "height": 100
+    }
+  ],
+  "how-it-works": {
+    "title": "How it works",
+    "items": [
+      {
+        "text": "Upload a file \u003cbr\u003eor add \u003cbr\u003ea video link",
+        "image": "/icon/how-count-1.svg",
+        "icon": "/icon/how-icon-1.svg",
+        "button": null
+      },
+      {
+        "text": "Select the \u003cbr\u003elanguages you want \u003cbr\u003eto translate the \u003cbr\u003evideo into",
+        "image": "/icon/how-count-2.svg",
+        "icon": "/icon/how-icon-2.svg",
+        "button": null
+      },
+      {
+        "text": "Pay for the \u003cbr\u003eorder \u003cbr\u003eand wait a bit",
+        "image": "/icon/how-count-3.svg",
+        "icon": "/icon/how-icon-3.svg",
+        "button": null
+      },
+      {
+        "text": "For new\u003cbr\u003evideos\u003cbr\u003eare ready!",
+        "image": "/icon/how-count-4.svg",
+        "icon": "/icon/how-icon-4.svg",
+        "button": {
+          "text": "Try it!",
+          "link": "https://vidby.com/",
+          "new-tab": false
+        }
+      }
+    ]
+  },
+  "examples": {
+    "title": "\u003cspan class=\"selected\"\u003eVideo \u003c/span\u003e\u003cbr\u003eexamples",
+    "videos": [
+      {
+        "original": {
+          "language": {
+            "code": "de-DE",
+            "language": "German (Germany)"
+          },
+          "source": "https://player.vimeo.com/video/692385926?h=88ae5ef648\u0026autoplay=1\u0026autopause=0",
+          "preview": "https://i.vimeocdn.com/video/1401318133-5141d5a709753a39fc21aa003a67bff4b953f934ecb1f2f2df1fb8e35b9f347f-d_640"
+        },
+        "translated": [
+          {
+            "language": {
+              "code": "ar-AE",
+              "language": "Arabic (United Arab Emirates)"
+            },
+            "source": "https://player.vimeo.com/video/672082875?h=860433384e\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1361851252-cac1b6ccbc8ab90cf43e65fe77675274ea6b6bdf17362b2b1a05285cbb8bf4e1-d_640"
+          },
+          {
+            "language": {
+              "code": "zh-CN",
+              "language": "Chinese (Simplified, China)"
+            },
+            "source": "https://player.vimeo.com/video/672008723?h=6711705682\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1361851252-cac1b6ccbc8ab90cf43e65fe77675274ea6b6bdf17362b2b1a05285cbb8bf4e1-d_640"
+          },
+          {
+            "language": {
+              "code": "en-GB",
+              "language": "English (United Kingdom)"
+            },
+            "source": "https://player.vimeo.com/video/672000454?h=21c7df667e\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1361850392-0026d68d178a904fe9b10d892e0b3f0996806edcf408ec7206a25656fc5fb249-d_640"
+          },
+          {
+            "language": {
+              "code": "fr-FR",
+              "language": "French (France)"
+            },
+            "source": "https://player.vimeo.com/video/672003306?h=1e5266a9fb\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1361850392-0026d68d178a904fe9b10d892e0b3f0996806edcf408ec7206a25656fc5fb249-d_640"
+          },
+          {
+            "language": {
+              "code": "it-IT",
+              "language": "Italian (Italy)"
+            },
+            "source": "https://player.vimeo.com/video/672004707?h=671936dcee\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1361782991-93b01a9190f1fd9fcfa3fcae225a93bdc4cf5702489e7dd33337210c05e56710-d_640"
+          },
+          {
+            "language": {
+              "code": "ko-KR",
+              "language": "Korean (South Korea)"
+            },
+            "source": "https://player.vimeo.com/video/672005981?h=ebde26993d\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1361855679-b88954f96d55917090245ff3279bef4fc450408d41a2da67bc9ae758d2344f53-d_640"
+          },
+          {
+            "language": {
+              "code": "ru-RU",
+              "language": "Russian (Russia)"
+            },
+            "source": "https://player.vimeo.com/video/672007370?h=15c3d6679a\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1399858198-ea79ea487b8ee09d8f8954c5b6477cb86155e8158bba0aea5848b662dd189334-d_640"
+          },
+          {
+            "language": {
+              "code": "es-ES",
+              "language": "Spanish (Spain)"
+            },
+            "source": "https://player.vimeo.com/video/672001852?h=5233487e15\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1399858198-ea79ea487b8ee09d8f8954c5b6477cb86155e8158bba0aea5848b662dd189334-d_640"
+          }
+        ],
+        "company_logo": "/img/content/customers/logo-1.svg"
+      },
+      {
+        "original": {
+          "language": {
+            "code": "de-DE",
+            "language": "German (Germany)"
+          },
+          "source": "https://player.vimeo.com/video/693334356?h=ef3625dd67\u0026autoplay=1\u0026autopause=0",
+          "preview": "https://i.vimeocdn.com/video/1403132818-c199454c6d9ed28bc4f79679a4a3998c752b0883ab337c57ac9557e9dcd3f90d-d_640"
+        },
+        "translated": [
+          {
+            "language": {
+              "code": "en-GB",
+              "language": "English (United Kingdom)"
+            },
+            "source": "https://player.vimeo.com/video/669891824?h=ee009d4989\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403133712-edd101bf53db19b9214aabb6198f115dbfe799d432d7479448219d61a27951de-d_640"
+          },
+          {
+            "language": {
+              "code": "fr-FR",
+              "language": "French (France)"
+            },
+            "source": "https://player.vimeo.com/video/669892887?h=e934b869ba\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403133712-edd101bf53db19b9214aabb6198f115dbfe799d432d7479448219d61a27951de-d_640"
+          },
+          {
+            "language": {
+              "code": "it-IT",
+              "language": "Italian (Italy)"
+            },
+            "source": "https://player.vimeo.com/video/669893987?h=1dafc86016\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403133712-edd101bf53db19b9214aabb6198f115dbfe799d432d7479448219d61a27951de-d_640"
+          },
+          {
+            "language": {
+              "code": "ru-RU",
+              "language": "Russian (Russia)"
+            },
+            "source": "https://player.vimeo.com/video/669895010?h=4a50167f82\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403133712-edd101bf53db19b9214aabb6198f115dbfe799d432d7479448219d61a27951de-d_640"
+          }
+        ],
+        "company_logo": "/img/content/customers/logo-10.svg"
+      },
+      {
+        "original": {
+          "language": {
+            "code": "de-CH",
+            "language": "German (Switzerland)"
+          },
+          "source": "https://player.vimeo.com/video/692420075?h=2aa8a8b206\u0026autoplay=1\u0026autopause=0",
+          "preview": "https://i.vimeocdn.com/video/1401376031-041fcdaa9c496b015e9354332eab035e705c9861e6d8071afa3cfd1a02230d66-d_640"
+        },
+        "translated": [
+          {
+            "language": {
+              "code": "en-GB",
+              "language": "English (United Kingdom)"
+            },
+            "source": "https://player.vimeo.com/video/674849507?h=dafb7e026f\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1367937474-23cc5ba32b12e8ed7e1af67c6fe1c31374738793ce216c37465b860aa2ef7581-d_640"
+          },
+          {
+            "language": {
+              "code": "fr-FR",
+              "language": "French (France)"
+            },
+            "source": "https://player.vimeo.com/video/674851973?h=97acf9acca\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1367937474-23cc5ba32b12e8ed7e1af67c6fe1c31374738793ce216c37465b860aa2ef7581-d_640"
+          },
+          {
+            "language": {
+              "code": "de-DE",
+              "language": "German (Germany)"
+            },
+            "source": "https://player.vimeo.com/video/674848222?h=4f1d6386f9\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1367937474-23cc5ba32b12e8ed7e1af67c6fe1c31374738793ce216c37465b860aa2ef7581-d_640"
+          },
+          {
+            "language": {
+              "code": "it-IT",
+              "language": "Italian (Italy)"
+            },
+            "source": "https://player.vimeo.com/video/674853370?h=e8ce387f0f\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1367937474-23cc5ba32b12e8ed7e1af67c6fe1c31374738793ce216c37465b860aa2ef7581-d_640"
+          },
+          {
+            "language": {
+              "code": "ru-RU",
+              "language": "Russian (Russia)"
+            },
+            "source": "https://player.vimeo.com/video/674854690?h=fb0b49535d\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1367937474-23cc5ba32b12e8ed7e1af67c6fe1c31374738793ce216c37465b860aa2ef7581-d_640"
+          },
+          {
+            "language": {
+              "code": "es-ES",
+              "language": "Spanish (Spain)"
+            },
+            "source": "https://player.vimeo.com/video/674850664?h=032b5ef8a1\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1367937474-23cc5ba32b12e8ed7e1af67c6fe1c31374738793ce216c37465b860aa2ef7581-d_640"
+          }
+        ],
+        "company_logo": "/img/content/customers/logo-4.svg"
+      },
+      {
+        "original": {
+          "language": {
+            "code": "de-DE",
+            "language": "German (Germany)"
+          },
+          "source": "https://player.vimeo.com/video/692428312?h=499e33945a\u0026autoplay=1\u0026autopause=0",
+          "preview": "https://i.vimeocdn.com/video/1401395737-95185de6d3b89fe65cb98d7cbf889ade50bfd14578462af5cf67979140f10b2f-d_640"
+        },
+        "translated": [
+          {
+            "language": {
+              "code": "ru-RU",
+              "language": "Russian (Russia)"
+            },
+            "source": "https://player.vimeo.com/video/692428383?h=a3e137b57b\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1401396297-d0302ec769a5491d9694d7f9849888bcb7d5f8538c3b52e457562660c2d3ac3e-d_640"
+          },
+          {
+            "language": {
+              "code": "uk-UA",
+              "language": "Ukrainian (Ukraine)"
+            },
+            "source": "https://player.vimeo.com/video/692430398?h=9d14616689\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1401396297-d0302ec769a5491d9694d7f9849888bcb7d5f8538c3b52e457562660c2d3ac3e-d_640"
+          }
+        ],
+        "company_logo": "/img/content/customers/logo-20.svg"
+      },
+      {
+        "original": {
+          "language": {
+            "code": "de-DE",
+            "language": "German (Germany)"
+          },
+          "source": "https://player.vimeo.com/video/692467133?h=ec8c6460db\u0026autoplay=1\u0026autopause=0",
+          "preview": "https://i.vimeocdn.com/video/1401471165-012c2a372726400f7f4373815e58197d753354655f2d4b77879e71063a6d747c-d_640"
+        },
+        "translated": [
+          {
+            "language": {
+              "code": "ar-AE",
+              "language": "Arabic (United Arab Emirates)"
+            },
+            "source": "https://player.vimeo.com/video/692467576?h=5997e512ac\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1401472126-727f625d3591a75423b8d4f07b1f17d9a415612e131d81d2230810db93f31481-d_640"
+          },
+          {
+            "language": {
+              "code": "zh-CN",
+              "language": "Chinese (Simplified, China)"
+            },
+            "source": "https://player.vimeo.com/video/692467835?h=d109f03a58\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1401472126-727f625d3591a75423b8d4f07b1f17d9a415612e131d81d2230810db93f31481-d_640"
+          },
+          {
+            "language": {
+              "code": "fr-FR",
+              "language": "French (France)"
+            },
+            "source": "https://player.vimeo.com/video/692467927?h=644e5e73c8\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1401472126-727f625d3591a75423b8d4f07b1f17d9a415612e131d81d2230810db93f31481-d_640"
+          },
+          {
+            "language": {
+              "code": "it-IT",
+              "language": "Italian (Italy)"
+            },
+            "source": "https://player.vimeo.com/video/692468028?h=8216e2f2b7\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1401472126-727f625d3591a75423b8d4f07b1f17d9a415612e131d81d2230810db93f31481-d_640"
+          },
+          {
+            "language": {
+              "code": "es-ES",
+              "language": "Spanish (Spain)"
+            },
+            "source": "https://player.vimeo.com/video/692467640?h=82607298db\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1401472126-727f625d3591a75423b8d4f07b1f17d9a415612e131d81d2230810db93f31481-d_640"
+          },
+          {
+            "language": {
+              "code": "sv-SE",
+              "language": "Swedish (Sweden)"
+            },
+            "source": "https://player.vimeo.com/video/692467733?h=74dbda7099\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1401472126-727f625d3591a75423b8d4f07b1f17d9a415612e131d81d2230810db93f31481-d_640"
+          }
+        ],
+        "company_logo": "/img/content/customers/logo-9.svg"
+      }
+    ],
+    "original": "Original",
+    "translated": "Translated"
+  },
+  "pricing": {
+    "title": "Pricing",
+    "fast": {
+      "advantages": [
+        "Synchronization of video and voice",
+        "More than \u003cspan class=\"selected\"\u003e\u003ca target=\"_self\" href=\"https://vidby.com/landing\"\u003e50 languages\u003c/a\u003e\u003c/span\u003e available for translation",
+        "Female and male voices",
+        "API for developers and corporate clients",
+        "Convenient and payment methods",
+        "Ability to edit the transcript and get excellent translation quality"
+      ],
+      "button": {
+        "text": "Order",
+        "link": "https://vidby.com/",
+        "new-tab": false
+      },
+      "time": "For 1 minute of the new video",
+      "title": "\u003cspan class=\"selected\"\u003eFast\u003c/span\u003e",
+      "price": "\u003cspan class=\"selected\"\u003e$ 0,9\u003c/span\u003e"
+    },
+    "expert": {
+      "advantages": [
+        "Synchronization of video and voice",
+        "More than \u003ca href=\"#languages\"\u003e\u003cspan class=\"selected\"\u003e50 languages\u003c/span\u003e\u003c/a\u003e available for translation",
+        "Female and male voices",
+        "API for developers and corporate clients",
+        "Convenient and payment methods",
+        "Ability to edit the transcript and get excellent translation quality",
+        "From order to delivery: \u003cspan class=\"selected\"\u003e24 hours\u003c/span\u003e",
+        "99% translation accuracy",
+        "100% voice and video synchronization accuracy"
+      ],
+      "button": {
+        "text": "ORDER",
+        "link": "https://vidby.com/",
+        "new-tab": false
+      },
+      "time": "FOR 1 MINUTE OF THE NEW VIDEO",
+      "title": "\u003cspan class=\"selected\"\u003eEXPERT\u003c/span\u003e",
+      "price": {
+        "1": {
+          "price": "$ 5,9",
+          "subtext": "for 1 language"
+        },
+        "2": {
+          "price": "$ 0,9",
+          "subtext": "in each new language"
+        }
+      }
+    }
+  },
+  "calculator": {
+    "accuracy": "Translation accuracy",
+    "accuracy-80": "80% (automatic verification)",
+    "accuracy-99": "99% (self verification)",
+    "accuracy-99-2": "99% (checking by a specialist) ",
+    "button": "Get results by email",
+    "cost": "Order cost",
+    "discount": "Discount",
+    "min": "min",
+    "n-of-new-langs": "Number of new languages",
+    "result": "Result",
+    "source-lang": "Source language",
+    "time": "Production time",
+    "title": "Calculate cost",
+    "total": "Total",
+    "video-length": "Video length",
+    "tooltip": "Coupon for the first order"
+  },
+  "discount": {
+    "title": "\u003cspan class=\"selected\"\u003e$10 discount\u003c/span\u003e \u003cbr\u003eon the first \u003cbr\u003eorder",
+    "form": {
+      "title": "Enter e-mail",
+      "button": "Submit"
+    }
+  },
+  "reviews": {
+    "title": "What our \u003cbr\u003e\u003cspan class=\"selected\"\u003eCustomers say\u003c/span\u003e",
+    "full-text-here": "Full text here",
+    "reviews": [
+      {
+        "author": {
+          "profile-image": "https://uploads-ssl.webflow.com/620a21240872792f5daf740c/6233154d2790c877289ab528_review-1.png",
+          "name": "Elyne Hager",
+          "profession": "Branding and Content Marketing",
+          "company": {
+            "company": "Läderach AG",
+            "url": "https://laderach.com/"
+          }
+        },
+        "stars": 5,
+        "content": "vidby is excellent for training our global employees. We have never been able to produce our how-to videos as easy and understandable as with vidby.",
+        "full-content-url": ""
+      },
+      {
+        "author": {
+          "profile-image": "https://uploads-ssl.webflow.com/620a21240872792f5daf740c/6266b6129857d597efd94284_review-6.png",
+          "name": "Stepan Mykhailov",
+          "profession": "Co-Founder/Owner",
+          "company": {
+            "company": "Air Media-Tech",
+            "url": "https://air.io/en"
+          }
+        },
+        "stars": 5,
+        "content": "As Vidby platform can be useful for our work with a global of creators (from 44 countries) as well as for collaboration of our own team (240 employees in 5 countries), enabling translation into 67 languages and 60 dialects, we currently discuss deeper cooperation and strategic partnership with Vidby. We expect this enhanced collabo... \u003ca href=\"https://vidby.com/reviews/air-vidby-review/\"\u003e Full text here\u003c/a\u003e",
+        "full-content-url": "https://vidby.com/reviews/air-vidby-review/"
+      },
+      {
+        "author": {
+          "profile-image": "https://uploads-ssl.webflow.com/620a21240872792f5daf740c/6233154da739600ffa33ccd0_review-2.png",
+          "name": "Eray Müller",
+          "profession": "Senior Communications Manager ",
+          "company": {
+            "company": "Siemens Schweiz AG",
+            "url": "https://www.siemens.com/"
+          }
+        },
+        "stars": 5,
+        "content": "Practical, fast and good translation solution for internal use of employee videos.",
+        "full-content-url": ""
+      },
+      {
+        "author": {
+          "profile-image": "https://uploads-ssl.webflow.com/620a21240872792f5daf740c/6233154d19983c1c9a2e95d3_review-3.png",
+          "name": "Silvan Merki",
+          "profession": "Chief Communications Officer ",
+          "company": {
+            "company": "Implenia AG",
+            "url": "https://implenia.com/"
+          }
+        },
+        "stars": 5,
+        "content": "I have tested the automated translation with some videos - also in less frequently used language. The translation is very fast and already amazingly good in quality - the whole context absolutely well understandable.",
+        "full-content-url": ""
+      },
+      {
+        "author": {
+          "profile-image": "https://uploads-ssl.webflow.com/620a21240872792f5daf740c/6233154d19983c5d382e95cf_review-5.png",
+          "name": "Mike Fuhrmann",
+          "profession": "Chief Communications Officer ",
+          "company": {
+            "company": "Generali AG",
+            "url": "https://www.generali.ch/"
+          }
+        },
+        "stars": 5,
+        "content": "Effective tool, which can be used well for simple, internal educational videos.",
+        "full-content-url": ""
+      }
+    ]
+  },
+  "faq": {
+    "title": "Faq",
+    "faqs": [
+      {
+        "question": "How long to wait for order fulfillment?",
+        "answer": "Average lead time is 1-2 minutes of waiting for 1 minute of original video."
+      },
+      {
+        "question": "What translation are supported?",
+        "answer": "This is a \u003ca target=\"_self\" href=\"https://vidby.com/landing#languages\"\u003elist\u003c/a\u003e of translation languages that we support."
+      },
+      {
+        "question": "What is the quality of the translation?",
+        "answer": "There are two options for ordering and, accordingly, quality. Option 1. Fully automatic translation will make it possible to understand the meaning of the video, but it will contain errors. Option 2. Manual checking and editing of the transcript in our convenient editor. If you edit the result of speech recognition, then the quality of translation into all languages will be very good and practically will not be inferior to a person."
+      },
+      {
+        "question": "Can I order transcripts and translations from you to be checked by people to get high quality?",
+        "answer": "Yes, for this now you need to contact us and pay a separate invoice. Soon it will be possible to do this directly at the time of ordering."
+      },
+      {
+        "question": "What are the best videos for translation?",
+        "answer": "For the best translation quality, it is better to use a video with good voice recording quality, clear and intelligible speech, the whole video should be in one language, only one person speaks at a time."
+      },
+      {
+        "question": "Which videos are not recommended to be translated?",
+        "answer": "We do not recommend translating such videos: humor, videos in which speech is against the background of loud music or extraneous noises, where several people speak at the same time, where emotions and intonation need to be conveyed, several languages ​​are used, terms or words from other languages ​​are used, jargon, obscene vocabulary."
+      },
+      {
+        "question": "Where can i contact if i have additional questions?",
+        "answer": "Please contact our support team support@vidby.com"
+      }
+    ]
+  },
+  "banner": {
+    "title": "Start \u003cbr\u003etranslating \u003cbr\u003eyour video",
+    "button": {
+      "text": "Continue",
+      "link": "https://vidby.com/",
+      "new-tab": false
+    }
+  },
+  "footer": {
+    "service": {
+      "title": "Service",
+      "items": [
+        {
+          "text": "Products",
+          "link": "/products",
+          "new-tab": false
+        },
+        {
+          "text": "Advantages",
+          "link": "/advantages",
+          "new-tab": false
+        },
+        {
+          "text": "Prices",
+          "link": "/prices",
+          "new-tab": false
+        },
+        {
+          "text": "Voices",
+          "link": "/voices",
+          "new-tab": false
+        }
+      ]
+    },
+    "legal-conditions": {
+      "title": "Company",
+      "items": [
+        {
+          "text": "About us",
+          "link": "/about",
+          "new-tab": false
+        },
+        {
+          "text": "Investors",
+          "link": "/investors",
+          "new-tab": false
+        },
+        {
+          "text": "Privacy Policy",
+          "link": "/privacy-policy",
+          "new-tab": false
+        },
+        {
+          "text": "Terms of Use",
+          "link": "/terms-of-use",
+          "new-tab": false
+        }
+      ]
+    },
+    "contacts": {
+      "title": "Contacts",
+      "items": [
+        "Suurstoffi 8\n6343 Rotkreuz\nSwitzerland"
+      ]
+    },
+    "follow-us": {
+      "title": "Follow us",
+      "items": [
+        {
+          "text": "Linkedin",
+          "link": "https://www.linkedin.com/company/vidbyofficial/mycompany/",
+          "new-tab": true
+        },
+        {
+          "text": "Facebook",
+          "link": "https://www.facebook.com/Vidby-automatic-video-translation-and-dubbing-103360358845599/",
+          "new-tab": true
+        }
+      ]
+    },
+    "payment-methods": {
+      "title": "Payment methods",
+      "items": [
+        "/icon/landing-mc.svg",
+        "/icon/landing-visa.svg",
+        "/icon/landing-apay.svg",
+        "/icon/landing-paypal.svg",
+        "/icon/landing-gpay.svg",
+        "/icon/landing-swift.svg"
+      ]
+    },
+    "available-languages": {
+      "selected": {
+        "code": "en",
+        "language": "English"
+      },
+      "items": [
+        {
+          "code": "de",
+          "language": "Deutsch"
+        },
+        {
+          "code": "tr",
+          "language": "Turkish"
+        }
+      ]
+    },
+    "language": "Language"
+  },
+  "get-email-modal": {
+    "title": "Get the calculation to the email, and a \u003cspan class=\"selected\"\u003e10$ discount\u003c/span\u003e on first order",
+    "agreement": "I agree to the \u003cspan class=\"selected\"\u003eprocessing of personal data\u003c/span\u003e",
+    "button": "Submit",
+    "label": "your e-mail"
+  },
+  "supported-langs-modal": {
+    "title": "List of supported languages",
+    "placeholder": "Enter the name of the language"
+  },
+  "thanks-modal": {
+    "title": "\u003cspan class=\"selected\"\u003eThanks!\u003c/span\u003e \u003cbr\u003eA reminder about the discount has been sent to your e-mail",
+    "button": "Close"
+  },
+  "form": {
+    "required": "Required field",
+    "invalid-email": "Please enter a valid email address",
+    "success": "Thank you! Your data has been submitted",
+    "error": "Error. Refresh the page and try again"
+  }
+}

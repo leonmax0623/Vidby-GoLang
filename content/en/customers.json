@@ -1,0 +1,1705 @@
+{
+  "seo": {
+    "title": "Vidby - Products",
+    "description": "Try vidby now and expand your business to international markets. Translate and dub videos with up to 99% accuracy in 70+ languages using AI.",
+    "custom-scripts-and-styles": {
+      "before-head": "",
+      "before-body": ""
+    }
+  },
+  "main_section": {
+    "content": "\u003cp\u003eAmbitious companies as well as universities, governments, state organizations and the film industry rely on vidby. They build bridges with us between cultures and their languages. They benefit from improved collaboration in international teams, from a faster “time to market” and the creation of a global knowledge community – connected through the medium of video. We are happy to support you with all your questions and individual applications of the vidby technology in start-up, SME and multinational corporate environments.\u003c/p\u003e",
+    "title": "Our customers",
+    "customers": [
+      "/icon/customers/logo-1.svg",
+      "/icon/customers/logo-2.svg",
+      "/icon/customers/logo-3.svg",
+      "/icon/customers/logo-4.svg",
+      "/icon/customers/logo-5.svg",
+      "/icon/customers/logo-6.svg",
+      "/icon/customers/logo-7.svg",
+      "/icon/customers/logo-8.svg",
+      "/icon/customers/logo-9.svg",
+      "/icon/customers/logo-10.svg",
+      "/icon/customers/logo-11.svg",
+      "/icon/customers/logo-12.svg",
+      "/icon/customers/logo-13.svg",
+      "/icon/customers/logo-14.svg",
+      "/icon/customers/logo-15.svg",
+      "/icon/customers/logo-16.svg",
+      "/icon/customers/logo-17.svg",
+      "/icon/customers/logo-18.svg",
+      "/icon/customers/logo-19.svg"
+    ]
+  },
+  "examples_section": {
+    "title": "Video examples of our customers",
+    "videos": [
+      {
+        "original": {
+          "language": {
+            "code": "de-DE",
+            "language": "German (Germany)"
+          },
+          "source": "https://player.vimeo.com/video/692385926?h=88ae5ef648\u0026autoplay=1\u0026autopause=0",
+          "preview": "https://i.vimeocdn.com/video/1401318133-5141d5a709753a39fc21aa003a67bff4b953f934ecb1f2f2df1fb8e35b9f347f-d_640"
+        },
+        "translated": [
+          {
+            "language": {
+              "code": "zh-CN",
+              "language": "Chinese (Simplified, China)"
+            },
+            "source": "https://player.vimeo.com/video/672008723?h=6711705682\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1361851252-cac1b6ccbc8ab90cf43e65fe77675274ea6b6bdf17362b2b1a05285cbb8bf4e1-d_640"
+          },
+          {
+            "language": {
+              "code": "en-GB",
+              "language": "English (United Kingdom)"
+            },
+            "source": "https://player.vimeo.com/video/672000454?h=21c7df667e\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1361850392-0026d68d178a904fe9b10d892e0b3f0996806edcf408ec7206a25656fc5fb249-d_640"
+          },
+          {
+            "language": {
+              "code": "fr-FR",
+              "language": "French (France)"
+            },
+            "source": "https://player.vimeo.com/video/672003306?h=1e5266a9fb\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1361850392-0026d68d178a904fe9b10d892e0b3f0996806edcf408ec7206a25656fc5fb249-d_640"
+          },
+          {
+            "language": {
+              "code": "it-IT",
+              "language": "Italian (Italy)"
+            },
+            "source": "https://player.vimeo.com/video/672004707?h=671936dcee\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1361782991-93b01a9190f1fd9fcfa3fcae225a93bdc4cf5702489e7dd33337210c05e56710-d_640"
+          },
+          {
+            "language": {
+              "code": "ko-KR",
+              "language": "Korean (South Korea)"
+            },
+            "source": "https://player.vimeo.com/video/672005981?h=ebde26993d\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1361855679-b88954f96d55917090245ff3279bef4fc450408d41a2da67bc9ae758d2344f53-d_640"
+          },
+          {
+            "language": {
+              "code": "ru-RU",
+              "language": "Russian (Russia)"
+            },
+            "source": "https://player.vimeo.com/video/672007370?h=15c3d6679a\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1399858198-ea79ea487b8ee09d8f8954c5b6477cb86155e8158bba0aea5848b662dd189334-d_640"
+          },
+          {
+            "language": {
+              "code": "es-ES",
+              "language": "Spanish (Spain)"
+            },
+            "source": "https://player.vimeo.com/video/672001852?h=5233487e15\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1399858198-ea79ea487b8ee09d8f8954c5b6477cb86155e8158bba0aea5848b662dd189334-d_640"
+          }
+        ],
+        "company_logo": "/icon/videos-logo-1.svg"
+      },
+      {
+        "original": {
+          "language": {
+            "code": "de-DE",
+            "language": "German (Germany)"
+          },
+          "source": "https://player.vimeo.com/video/691933047?h=73a7ed4141\u0026autoplay=1\u0026autopause=0",
+          "preview": "https://i.vimeocdn.com/video/1400598648-2345066d30706ac3ba63625327cb1ab4154c15d87905a8ba5f52773c9710cec5-d_640"
+        },
+        "translated": [
+          {
+            "language": {
+              "code": "ar-AE",
+              "language": "Arabic (United Arab Emirates)"
+            },
+            "source": "https://player.vimeo.com/video/674388309?h=95a5cfb12d\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1367025289-3b3f6abb4cc1a5a2d34ca86ea293869ee87a1a27d1ad380b432c4ca6f2a535bc-d_640"
+          },
+          {
+            "language": {
+              "code": "zh-CN",
+              "language": "Chinese (Simplified, China)"
+            },
+            "source": "https://player.vimeo.com/video/674397328?h=e5b0edfe86\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1367025289-3b3f6abb4cc1a5a2d34ca86ea293869ee87a1a27d1ad380b432c4ca6f2a535bc-d_640"
+          },
+          {
+            "language": {
+              "code": "en-GB",
+              "language": "English (United Kingdom)"
+            },
+            "source": "https://player.vimeo.com/video/674389334?h=264c87d080\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1367025289-3b3f6abb4cc1a5a2d34ca86ea293869ee87a1a27d1ad380b432c4ca6f2a535bc-d_640"
+          },
+          {
+            "language": {
+              "code": "fr-FR",
+              "language": "French (France)"
+            },
+            "source": "https://player.vimeo.com/video/674391375?h=ee362a451d\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1367025289-3b3f6abb4cc1a5a2d34ca86ea293869ee87a1a27d1ad380b432c4ca6f2a535bc-d_640"
+          },
+          {
+            "language": {
+              "code": "hi-IN",
+              "language": "Hindi (India)"
+            },
+            "source": "https://player.vimeo.com/video/674392370?h=e810305635\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1367025289-3b3f6abb4cc1a5a2d34ca86ea293869ee87a1a27d1ad380b432c4ca6f2a535bc-d_640"
+          },
+          {
+            "language": {
+              "code": "it-IT",
+              "language": "Italian (Italy)"
+            },
+            "source": "https://player.vimeo.com/video/674393379?h=5020ff2184\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1367025289-3b3f6abb4cc1a5a2d34ca86ea293869ee87a1a27d1ad380b432c4ca6f2a535bc-d_640"
+          },
+          {
+            "language": {
+              "code": "ja-JP",
+              "language": "Japanese (Japan)"
+            },
+            "source": "https://player.vimeo.com/video/674394401?h=ae04c42916\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1367025289-3b3f6abb4cc1a5a2d34ca86ea293869ee87a1a27d1ad380b432c4ca6f2a535bc-d_640"
+          },
+          {
+            "language": {
+              "code": "pt-PT",
+              "language": "Portuguese (Portugal)"
+            },
+            "source": "https://player.vimeo.com/video/674395329?h=0ca9af127a\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1367025289-3b3f6abb4cc1a5a2d34ca86ea293869ee87a1a27d1ad380b432c4ca6f2a535bc-d_640"
+          },
+          {
+            "language": {
+              "code": "ru-RU",
+              "language": "Russian (Russia)"
+            },
+            "source": "https://player.vimeo.com/video/674387275?h=e2f363a46e\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1367025289-3b3f6abb4cc1a5a2d34ca86ea293869ee87a1a27d1ad380b432c4ca6f2a535bc-d_640"
+          },
+          {
+            "language": {
+              "code": "es-ES",
+              "language": "Spanish (Spain)"
+            },
+            "source": "https://player.vimeo.com/video/674390329?h=2c9342f829\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1367025289-3b3f6abb4cc1a5a2d34ca86ea293869ee87a1a27d1ad380b432c4ca6f2a535bc-d_640"
+          },
+          {
+            "language": {
+              "code": "tr-TR",
+              "language": "Turkish (Turkey)"
+            },
+            "source": "https://player.vimeo.com/video/674396389?h=bbba4f0b83\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1367025289-3b3f6abb4cc1a5a2d34ca86ea293869ee87a1a27d1ad380b432c4ca6f2a535bc-d_640"
+          }
+        ],
+        "company_logo": "/icon/videos-logo-3.svg"
+      },
+      {
+        "original": {
+          "language": {
+            "code": "de-DE",
+            "language": "German (Germany)"
+          },
+          "source": "https://player.vimeo.com/video/691816038?h=5f007f5c4e\u0026autoplay=1\u0026autopause=0",
+          "preview": "https://i.vimeocdn.com/video/1400361613-d1be0c0963eaf150291e6671e1baf39c7f50fe8b51df53d3c3b64bb99654bc29-d_640"
+        },
+        "translated": [
+          {
+            "language": {
+              "code": "ar-AE",
+              "language": "Arabic (United Arab Emirates)"
+            },
+            "source": "https://player.vimeo.com/video/674345973?h=2f676171cd\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1366931846-d58d26a8042d08adb41ef83eab734acc56fd289c16191b233c8b5a94e784ae08-d_640"
+          },
+          {
+            "language": {
+              "code": "zh-CN",
+              "language": "Chinese (Simplified, China)"
+            },
+            "source": "https://player.vimeo.com/video/674359300?h=5fb449da77\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1366931846-d58d26a8042d08adb41ef83eab734acc56fd289c16191b233c8b5a94e784ae08-d_640"
+          },
+          {
+            "language": {
+              "code": "en-GB",
+              "language": "English (United Kingdom)"
+            },
+            "source": "https://player.vimeo.com/video/674357748?h=bafbf87535\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1366931846-d58d26a8042d08adb41ef83eab734acc56fd289c16191b233c8b5a94e784ae08-d_640"
+          },
+          {
+            "language": {
+              "code": "fr-FR",
+              "language": "French (France)"
+            },
+            "source": "https://player.vimeo.com/video/674360964?h=0e6de41f3e\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1366931846-d58d26a8042d08adb41ef83eab734acc56fd289c16191b233c8b5a94e784ae08-d_640"
+          },
+          {
+            "language": {
+              "code": "it-IT",
+              "language": "Italian (Italy)"
+            },
+            "source": "https://player.vimeo.com/video/674345225?h=7bbb0c87d4\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1366931846-d58d26a8042d08adb41ef83eab734acc56fd289c16191b233c8b5a94e784ae08-d_640"
+          },
+          {
+            "language": {
+              "code": "ja-JP",
+              "language": "Japanese (Japan)"
+            },
+            "source": "https://player.vimeo.com/video/674347469?h=d0e845dcd7\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1366931846-d58d26a8042d08adb41ef83eab734acc56fd289c16191b233c8b5a94e784ae08-d_640"
+          },
+          {
+            "language": {
+              "code": "pt-PT",
+              "language": "Portuguese (Portugal)"
+            },
+            "source": "https://player.vimeo.com/video/674346658?h=deb78ac321\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1366931846-d58d26a8042d08adb41ef83eab734acc56fd289c16191b233c8b5a94e784ae08-d_640"
+          },
+          {
+            "language": {
+              "code": "ru-RU",
+              "language": "Russian (Russia)"
+            },
+            "source": "https://player.vimeo.com/video/674360139?h=ca61ce0182\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1366931846-d58d26a8042d08adb41ef83eab734acc56fd289c16191b233c8b5a94e784ae08-d_640"
+          },
+          {
+            "language": {
+              "code": "es-ES",
+              "language": "Spanish (Spain)"
+            },
+            "source": "https://player.vimeo.com/video/674358525?h=2e25689fc6\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1366931846-d58d26a8042d08adb41ef83eab734acc56fd289c16191b233c8b5a94e784ae08-d_640"
+          },
+          {
+            "language": {
+              "code": "tr-TR",
+              "language": "Turkish (Turkey)"
+            },
+            "source": "https://player.vimeo.com/video/674361897?h=1a6582b070\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1366931846-d58d26a8042d08adb41ef83eab734acc56fd289c16191b233c8b5a94e784ae08-d_640"
+          }
+        ],
+        "company_logo": "/icon/videos-logo-5.svg"
+      },
+      {
+        "original": {
+          "language": {
+            "code": "ru-RU",
+            "language": "Russian (Russia)"
+          },
+          "source": "https://player.vimeo.com/video/668157661?h=323ae1b89d\u0026autoplay=1\u0026autopause=0",
+          "preview": "https://i.vimeocdn.com/video/1352836491-8199f8f710130e30b6d0e76233204b296f361341dae9a5cf84cdb8e84cc09a89-d_640"
+        },
+        "translated": [
+          {
+            "language": {
+              "code": "en-GB",
+              "language": "English (United Kingdom)"
+            },
+            "source": "https://player.vimeo.com/video/668156673?h=eeb5ee5e2d\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1352837402-d68a6c36327f3fa564f37ef376e6426db2a800abd555de55cf779da4c58eaaea-d_640"
+          },
+          {
+            "language": {
+              "code": "fr-FR",
+              "language": "French (France)"
+            },
+            "source": "https://player.vimeo.com/video/668154470?h=72ba019887\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1352837402-d68a6c36327f3fa564f37ef376e6426db2a800abd555de55cf779da4c58eaaea-d_640"
+          },
+          {
+            "language": {
+              "code": "es-ES",
+              "language": "Spanish (Spain)"
+            },
+            "source": "https://player.vimeo.com/video/668155595?h=6386f829a5\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1352837402-d68a6c36327f3fa564f37ef376e6426db2a800abd555de55cf779da4c58eaaea-d_640"
+          }
+        ],
+        "company_logo": "/icon/videos-logo-6.svg"
+      },
+      {
+        "original": {
+          "language": {
+            "code": "en-GB",
+            "language": "English (United Kingdom)"
+          },
+          "source": "https://player.vimeo.com/video/665171025?h=322a1a3451\u0026autoplay=1\u0026autopause=0",
+          "preview": "https://i.vimeocdn.com/video/1346316532-26e845c49cf0669d203b8fd4291b2b45aa788e1e2ff214247ec3c22da1130e18-d_640"
+        },
+        "translated": [
+          {
+            "language": {
+              "code": "ru-RU",
+              "language": "Russian (Russia)"
+            },
+            "source": "https://player.vimeo.com/video/693330996?h=3fda85a8da\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403128648-6644ff8a4f162aaf5b989032c884defe61e7356f6c2a7b9a213e33cfd60c89cc-d_640"
+          },
+          {
+            "language": {
+              "code": "tr-TR",
+              "language": "Turkish (Turkey)"
+            },
+            "source": "https://player.vimeo.com/video/693331534?h=750f766d40\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403128648-6644ff8a4f162aaf5b989032c884defe61e7356f6c2a7b9a213e33cfd60c89cc-d_640"
+          }
+        ],
+        "company_logo": "/image/videos-logo-25.png"
+      },
+      {
+        "original": {
+          "language": {
+            "code": "en-GB",
+            "language": "English (United Kingdom)"
+          },
+          "source": "https://player.vimeo.com/video/693460987?h=b6a414546d\u0026autoplay=1\u0026autopause=0",
+          "preview": "https://i.vimeocdn.com/video/1403362212-3183689f29301af3071ad475ed6eb0b127e95f84256d4f29fdda42e2e4efc4a6-d_640"
+        },
+        "translated": [
+          {
+            "language": {
+              "code": "ar-AE",
+              "language": "Arabic (United Arab Emirates)"
+            },
+            "source": "https://player.vimeo.com/video/693396934?h=6ca4a6f8c2\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403278254-c2f4d4c3e17b48716e5660f129bdb7b38ba5c8dbf55c02100a6e21d35524254f-d_640"
+          },
+          {
+            "language": {
+              "code": "fr-FR",
+              "language": "French (France)"
+            },
+            "source": "https://player.vimeo.com/video/693400284?h=0369d095eb\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403278254-c2f4d4c3e17b48716e5660f129bdb7b38ba5c8dbf55c02100a6e21d35524254f-d_640"
+          },
+          {
+            "language": {
+              "code": "de-DE",
+              "language": "German (Germany)"
+            },
+            "source": "https://player.vimeo.com/video/693398048?h=375746991b\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403278254-c2f4d4c3e17b48716e5660f129bdb7b38ba5c8dbf55c02100a6e21d35524254f-d_640"
+          },
+          {
+            "language": {
+              "code": "hi-IN",
+              "language": "Hindi (India)"
+            },
+            "source": "https://player.vimeo.com/video/693401423?h=517363a2b7\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403278254-c2f4d4c3e17b48716e5660f129bdb7b38ba5c8dbf55c02100a6e21d35524254f-d_640"
+          },
+          {
+            "language": {
+              "code": "it-IT",
+              "language": "Italian (Italy)"
+            },
+            "source": "https://player.vimeo.com/video/693402475?h=0bb06d9530\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403278254-c2f4d4c3e17b48716e5660f129bdb7b38ba5c8dbf55c02100a6e21d35524254f-d_640"
+          },
+          {
+            "language": {
+              "code": "ko-KR",
+              "language": "Korean (South Korea)"
+            },
+            "source": "https://player.vimeo.com/video/693403707?h=1ebab6d526\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403278254-c2f4d4c3e17b48716e5660f129bdb7b38ba5c8dbf55c02100a6e21d35524254f-d_640"
+          },
+          {
+            "language": {
+              "code": "pt-PT",
+              "language": "Portuguese (Portugal)"
+            },
+            "source": "https://player.vimeo.com/video/693404888?h=ee1a6ede6e\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403278254-c2f4d4c3e17b48716e5660f129bdb7b38ba5c8dbf55c02100a6e21d35524254f-d_640"
+          },
+          {
+            "language": {
+              "code": "ru-RU",
+              "language": "Russian (Russia)"
+            },
+            "source": "https://player.vimeo.com/video/693406040?h=46a529749b\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403278254-c2f4d4c3e17b48716e5660f129bdb7b38ba5c8dbf55c02100a6e21d35524254f-d_640"
+          },
+          {
+            "language": {
+              "code": "es-ES",
+              "language": "Spanish (Spain)"
+            },
+            "source": "https://player.vimeo.com/video/693399194?h=4c6f074ff2\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403278254-c2f4d4c3e17b48716e5660f129bdb7b38ba5c8dbf55c02100a6e21d35524254f-d_640"
+          },
+          {
+            "language": {
+              "code": "tr-TR",
+              "language": "Turkish (Turkey)"
+            },
+            "source": "https://player.vimeo.com/video/693407184?h=6521d1dfe4\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403278254-c2f4d4c3e17b48716e5660f129bdb7b38ba5c8dbf55c02100a6e21d35524254f-d_640"
+          }
+        ],
+        "company_logo": "/icon/videos-logo-11.svg"
+      },
+      {
+        "original": {
+          "language": {
+            "code": "en-GB",
+            "language": "English (United Kingdom)"
+          },
+          "source": "https://player.vimeo.com/video/692413423?h=8395a9450f\u0026autoplay=1\u0026autopause=0",
+          "preview": "https://i.vimeocdn.com/video/1401363631-f7abc8210493e4fb3d0a3ed8d8bd7c8099e0272bb04927fbc36bf8c83d932fbe-d_640"
+        },
+        "translated": [
+          {
+            "language": {
+              "code": "pt-PT",
+              "language": "Portuguese (Portugal)"
+            },
+            "source": "https://player.vimeo.com/video/674870303?h=7982686348\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1367974527-1e4425b022a77b986952654d2ca189b04510a7b1725bd0c1157c24f537de2ef8-d_640"
+          },
+          {
+            "language": {
+              "code": "ru-RU",
+              "language": "Russian (Russia)"
+            },
+            "source": "https://player.vimeo.com/video/674875952?h=85802013c1\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1367974527-1e4425b022a77b986952654d2ca189b04510a7b1725bd0c1157c24f537de2ef8-d_640"
+          }
+        ],
+        "company_logo": "/icon/videos-logo-4.svg"
+      },
+      {
+        "original": {
+          "language": {
+            "code": "de-DE",
+            "language": "German (Germany)"
+          },
+          "source": "https://player.vimeo.com/video/693334356?h=ef3625dd67\u0026autoplay=1\u0026autopause=0",
+          "preview": "https://i.vimeocdn.com/video/1403132818-c199454c6d9ed28bc4f79679a4a3998c752b0883ab337c57ac9557e9dcd3f90d-d_640"
+        },
+        "translated": [
+          {
+            "language": {
+              "code": "en-GB",
+              "language": "English (United Kingdom)"
+            },
+            "source": "https://player.vimeo.com/video/669891824?h=ee009d4989\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403133712-edd101bf53db19b9214aabb6198f115dbfe799d432d7479448219d61a27951de-d_640"
+          },
+          {
+            "language": {
+              "code": "fr-FR",
+              "language": "French (France)"
+            },
+            "source": "https://player.vimeo.com/video/669892887?h=e934b869ba\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403133712-edd101bf53db19b9214aabb6198f115dbfe799d432d7479448219d61a27951de-d_640"
+          },
+          {
+            "language": {
+              "code": "it-IT",
+              "language": "Italian (Italy)"
+            },
+            "source": "https://player.vimeo.com/video/669893987?h=1dafc86016\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403133712-edd101bf53db19b9214aabb6198f115dbfe799d432d7479448219d61a27951de-d_640"
+          },
+          {
+            "language": {
+              "code": "ru-RU",
+              "language": "Russian (Russia)"
+            },
+            "source": "https://player.vimeo.com/video/669895010?h=4a50167f82\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403133712-edd101bf53db19b9214aabb6198f115dbfe799d432d7479448219d61a27951de-d_640"
+          }
+        ],
+        "company_logo": "/icon/videos-logo-10.svg"
+      },
+      {
+        "original": {
+          "language": {
+            "code": "en-GB",
+            "language": "English (United Kingdom)"
+          },
+          "source": "https://player.vimeo.com/video/693380297?h=67fa7f7914\u0026autoplay=1\u0026autopause=0",
+          "preview": "https://i.vimeocdn.com/video/1403220334-59619c46029b2461c021a3e94ba79980a11f09364e624669800fb0eda322ee8f-d_640"
+        },
+        "translated": [
+          {
+            "language": {
+              "code": "de-DE",
+              "language": "German (Germany)"
+            },
+            "source": "https://player.vimeo.com/video/668579022?h=09137d3dad\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1353842562-1f737a108997ef523c9dd0adb5771fbccfda0e5fcbeb5f02230cc88b52dc25a9-d_640"
+          },
+          {
+            "language": {
+              "code": "sv-SE",
+              "language": "Swedish (Sweden)"
+            },
+            "source": "https://player.vimeo.com/video/668570819?h=07fb2037ff\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1353842562-1f737a108997ef523c9dd0adb5771fbccfda0e5fcbeb5f02230cc88b52dc25a9-d_640"
+          },
+          {
+            "language": {
+              "code": "uk-UA",
+              "language": "Ukrainian (Ukraine)"
+            },
+            "source": "https://player.vimeo.com/video/668570133?h=16223bd477\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1353842562-1f737a108997ef523c9dd0adb5771fbccfda0e5fcbeb5f02230cc88b52dc25a9-d_640"
+          }
+        ],
+        "company_logo": "/icon/videos-logo-12.svg"
+      },
+      {
+        "original": {
+          "language": {
+            "code": "en-GB",
+            "language": "English (United Kingdom)"
+          },
+          "source": "https://player.vimeo.com/video/691340024?h=0424011c45\u0026autoplay=1\u0026autopause=0",
+          "preview": "https://i.vimeocdn.com/video/1399569952-200fd8d8613e8dff9d1895fd498100a473afe343925a6105632161a4b68599c6-d_640"
+        },
+        "translated": [
+          {
+            "language": {
+              "code": "zh-CN",
+              "language": "Chinese (Simplified, China)"
+            },
+            "source": "https://player.vimeo.com/video/693189153?h=d8725eaced\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1402884436-938eab262e74a5c0056e85a14b4fc290dc93b42c980e1e264860b1bc88ca47ec-d_640"
+          },
+          {
+            "language": {
+              "code": "ru-RU",
+              "language": "Russian (Russia)"
+            },
+            "source": "https://player.vimeo.com/video/693190305?h=6adf584349\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1402884436-938eab262e74a5c0056e85a14b4fc290dc93b42c980e1e264860b1bc88ca47ec-d_640"
+          }
+        ],
+        "company_logo": "/image/videos-logo-23.png"
+      },
+      {
+        "original": {
+          "language": {
+            "code": "de-DE",
+            "language": "German (Germany)"
+          },
+          "source": "https://player.vimeo.com/video/693116522?h=23e1dd91a8\u0026autoplay=1\u0026autopause=0",
+          "preview": "https://i.vimeocdn.com/video/1402772357-6f58b58fa98e0b1de2d522aa1b27c2b405ce6324d328bcb18665700d52c01406-d_640"
+        },
+        "translated": [
+          {
+            "language": {
+              "code": "ar-AE",
+              "language": "Arabic (United Arab Emirates)"
+            },
+            "source": "https://player.vimeo.com/video/693158038?h=25a93fa8d2\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1402850263-bd694a7ae82f59bf62465feb0ff7230343496f73a7d722876047f179ed04474f-d_640"
+          },
+          {
+            "language": {
+              "code": "zh-CN",
+              "language": "Chinese (Simplified, China)"
+            },
+            "source": "https://player.vimeo.com/video/693151110?h=d13f8fdea1\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1402850263-bd694a7ae82f59bf62465feb0ff7230343496f73a7d722876047f179ed04474f-d_640"
+          },
+          {
+            "language": {
+              "code": "en-GB",
+              "language": "English (United Kingdom)"
+            },
+            "source": "https://player.vimeo.com/video/693157286?h=804ceb29c8\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1402850263-bd694a7ae82f59bf62465feb0ff7230343496f73a7d722876047f179ed04474f-d_640"
+          },
+          {
+            "language": {
+              "code": "fr-FR",
+              "language": "French (France)"
+            },
+            "source": "https://player.vimeo.com/video/693155657?h=6f1fdf4c07\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1402850263-bd694a7ae82f59bf62465feb0ff7230343496f73a7d722876047f179ed04474f-d_640"
+          },
+          {
+            "language": {
+              "code": "hi-IN",
+              "language": "Hindi (India)"
+            },
+            "source": "https://player.vimeo.com/video/693154919?h=9d991ad915\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1402850263-bd694a7ae82f59bf62465feb0ff7230343496f73a7d722876047f179ed04474f-d_640"
+          },
+          {
+            "language": {
+              "code": "it-IT",
+              "language": "Italian (Italy)"
+            },
+            "source": "https://player.vimeo.com/video/693154131?h=b6b3c4c728\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1402850263-bd694a7ae82f59bf62465feb0ff7230343496f73a7d722876047f179ed04474f-d_640"
+          },
+          {
+            "language": {
+              "code": "ja-JP",
+              "language": "Japanese (Japan)"
+            },
+            "source": "https://player.vimeo.com/video/693153389?h=b5c65a840c\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1402850263-bd694a7ae82f59bf62465feb0ff7230343496f73a7d722876047f179ed04474f-d_640"
+          },
+          {
+            "language": {
+              "code": "ko-KR",
+              "language": "Korean (South Korea)"
+            },
+            "source": "https://player.vimeo.com/video/693152664?h=9581c719cb\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1402850263-bd694a7ae82f59bf62465feb0ff7230343496f73a7d722876047f179ed04474f-d_640"
+          },
+          {
+            "language": {
+              "code": "ru-RU",
+              "language": "Russian (Russia)"
+            },
+            "source": "https://player.vimeo.com/video/693150390?h=7a5c2ae882\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1402850263-bd694a7ae82f59bf62465feb0ff7230343496f73a7d722876047f179ed04474f-d_640"
+          },
+          {
+            "language": {
+              "code": "es-ES",
+              "language": "Spanish (Spain)"
+            },
+            "source": "https://player.vimeo.com/video/693156532?h=af74ee0e72\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1402850263-bd694a7ae82f59bf62465feb0ff7230343496f73a7d722876047f179ed04474f-d_640"
+          },
+          {
+            "language": {
+              "code": "sv-SE",
+              "language": "Swedish (Sweden)"
+            },
+            "source": "https://player.vimeo.com/video/693151898?h=03c2449561\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1402850263-bd694a7ae82f59bf62465feb0ff7230343496f73a7d722876047f179ed04474f-d_640"
+          },
+          {
+            "language": {
+              "code": "uk-UA",
+              "language": "Ukrainian (Ukraine)"
+            },
+            "source": "https://player.vimeo.com/video/693149727?h=b74b8d1739\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1402850263-bd694a7ae82f59bf62465feb0ff7230343496f73a7d722876047f179ed04474f-d_640"
+          }
+        ],
+        "company_logo": "/icon/videos-logo-20.svg"
+      },
+      {
+        "original": {
+          "language": {
+            "code": "en-GB",
+            "language": "English (United Kingdom)"
+          },
+          "source": "https://player.vimeo.com/video/693089230?h=172acd04b9\u0026autoplay=1\u0026autopause=0",
+          "preview": "https://i.vimeocdn.com/video/1402750495-658e6216a477ac29938d15459d0b9b3a15b843603dce86ecab13f9ae9077d32f-d_640"
+        },
+        "translated": [
+          {
+            "language": {
+              "code": "fr-FR",
+              "language": "French (France)"
+            },
+            "source": "https://player.vimeo.com/video/693078786?h=a1c895c2db\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1402757534-17101fb68b61923fb625f582dd848b1f223a7630d9d4a39916b9cc8da7a2df7f-d_640"
+          },
+          {
+            "language": {
+              "code": "de-DE",
+              "language": "German (Germany)"
+            },
+            "source": "https://player.vimeo.com/video/693073784?h=57a1cc268d\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1402757534-17101fb68b61923fb625f582dd848b1f223a7630d9d4a39916b9cc8da7a2df7f-d_640"
+          },
+          {
+            "language": {
+              "code": "pt-PT",
+              "language": "Portuguese (Portugal)"
+            },
+            "source": "https://player.vimeo.com/video/693081362?h=a4d6140677\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1402757534-17101fb68b61923fb625f582dd848b1f223a7630d9d4a39916b9cc8da7a2df7f-d_640"
+          },
+          {
+            "language": {
+              "code": "ru-RU",
+              "language": "Russian (Russia)"
+            },
+            "source": "https://player.vimeo.com/video/693083779?h=bc1f6a559d\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1402757534-17101fb68b61923fb625f582dd848b1f223a7630d9d4a39916b9cc8da7a2df7f-d_640"
+          },
+          {
+            "language": {
+              "code": "es-ES",
+              "language": "Spanish (Spain)"
+            },
+            "source": "https://player.vimeo.com/video/693076356?h=1d3af468c0\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1402757534-17101fb68b61923fb625f582dd848b1f223a7630d9d4a39916b9cc8da7a2df7f-d_640"
+          },
+          {
+            "language": {
+              "code": "uk-UA",
+              "language": "Ukrainian (Ukraine)"
+            },
+            "source": "https://player.vimeo.com/video/693086403?h=333894935a\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1402757534-17101fb68b61923fb625f582dd848b1f223a7630d9d4a39916b9cc8da7a2df7f-d_640"
+          }
+        ],
+        "company_logo": "/icon/videos-logo-24.svg"
+      },
+      {
+        "original": {
+          "language": {
+            "code": "de-DE",
+            "language": "German (Germany)"
+          },
+          "source": "https://player.vimeo.com/video/669724257?h=c6d0a71ba8\u0026autoplay=1\u0026autopause=0",
+          "preview": "https://i.vimeocdn.com/video/1356699735-022cd2dde55653d0be8013eed9a2ab5ada43829cce0f7b4d4bf4b679411d6f35-d_640"
+        },
+        "translated": [
+          {
+            "language": {
+              "code": "ar-AE",
+              "language": "Arabic (United Arab Emirates)"
+            },
+            "source": "https://player.vimeo.com/video/673719067?h=926526bd8b\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1365263272-7387bfc0b22229f62f7ab3963d101e368bf380f074c19c3b9e44cab3630dfdbf-d_640"
+          },
+          {
+            "language": {
+              "code": "en-GB",
+              "language": "English (United Kingdom)"
+            },
+            "source": "https://player.vimeo.com/video/669752045?h=d5b15dffe8\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1365263272-7387bfc0b22229f62f7ab3963d101e368bf380f074c19c3b9e44cab3630dfdbf-d_640"
+          },
+          {
+            "language": {
+              "code": "fr-FR",
+              "language": "French (France)"
+            },
+            "source": "https://player.vimeo.com/video/669767998?h=a1a6baf231\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1365263272-7387bfc0b22229f62f7ab3963d101e368bf380f074c19c3b9e44cab3630dfdbf-d_640"
+          },
+          {
+            "language": {
+              "code": "it-IT",
+              "language": "Italian (Italy)"
+            },
+            "source": "https://player.vimeo.com/video/669726756?h=84463949a5\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1365263272-7387bfc0b22229f62f7ab3963d101e368bf380f074c19c3b9e44cab3630dfdbf-d_640"
+          },
+          {
+            "language": {
+              "code": "ru-RU",
+              "language": "Russian (Russia)"
+            },
+            "source": "https://player.vimeo.com/video/669727912?h=f5493b11e7\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1365263272-7387bfc0b22229f62f7ab3963d101e368bf380f074c19c3b9e44cab3630dfdbf-d_640"
+          }
+        ],
+        "company_logo": "/icon/videos-logo-2.svg"
+      },
+      {
+        "original": {
+          "language": {
+            "code": "de-CH",
+            "language": "German (Switzerland)"
+          },
+          "source": "https://player.vimeo.com/video/692420075?h=2aa8a8b206\u0026autoplay=1\u0026autopause=0",
+          "preview": "https://i.vimeocdn.com/video/1401376031-041fcdaa9c496b015e9354332eab035e705c9861e6d8071afa3cfd1a02230d66-d_640"
+        },
+        "translated": [
+          {
+            "language": {
+              "code": "en-GB",
+              "language": "English (United Kingdom)"
+            },
+            "source": "https://player.vimeo.com/video/674849507?h=dafb7e026f\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1367937474-23cc5ba32b12e8ed7e1af67c6fe1c31374738793ce216c37465b860aa2ef7581-d_640"
+          },
+          {
+            "language": {
+              "code": "fr-FR",
+              "language": "French (France)"
+            },
+            "source": "https://player.vimeo.com/video/674851973?h=97acf9acca\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1367937474-23cc5ba32b12e8ed7e1af67c6fe1c31374738793ce216c37465b860aa2ef7581-d_640"
+          },
+          {
+            "language": {
+              "code": "de-DE",
+              "language": "German (Germany)"
+            },
+            "source": "https://player.vimeo.com/video/674848222?h=4f1d6386f9\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1367937474-23cc5ba32b12e8ed7e1af67c6fe1c31374738793ce216c37465b860aa2ef7581-d_640"
+          },
+          {
+            "language": {
+              "code": "it-IT",
+              "language": "Italian (Italy)"
+            },
+            "source": "https://player.vimeo.com/video/674853370?h=e8ce387f0f\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1367937474-23cc5ba32b12e8ed7e1af67c6fe1c31374738793ce216c37465b860aa2ef7581-d_640"
+          },
+          {
+            "language": {
+              "code": "ru-RU",
+              "language": "Russian (Russia)"
+            },
+            "source": "https://player.vimeo.com/video/674854690?h=fb0b49535d\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1367937474-23cc5ba32b12e8ed7e1af67c6fe1c31374738793ce216c37465b860aa2ef7581-d_640"
+          },
+          {
+            "language": {
+              "code": "es-ES",
+              "language": "Spanish (Spain)"
+            },
+            "source": "https://player.vimeo.com/video/674850664?h=032b5ef8a1\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1367937474-23cc5ba32b12e8ed7e1af67c6fe1c31374738793ce216c37465b860aa2ef7581-d_640"
+          }
+        ],
+        "company_logo": "/icon/videos-logo-4.svg"
+      },
+      {
+        "original": {
+          "language": {
+            "code": "de-DE",
+            "language": "German (Germany)"
+          },
+          "source": "https://player.vimeo.com/video/692428312?h=499e33945a\u0026autoplay=1\u0026autopause=0",
+          "preview": "https://i.vimeocdn.com/video/1401395737-95185de6d3b89fe65cb98d7cbf889ade50bfd14578462af5cf67979140f10b2f-d_640"
+        },
+        "translated": [
+          {
+            "language": {
+              "code": "ru-RU",
+              "language": "Russian (Russia)"
+            },
+            "source": "https://player.vimeo.com/video/692428383?h=a3e137b57b\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1401396297-d0302ec769a5491d9694d7f9849888bcb7d5f8538c3b52e457562660c2d3ac3e-d_640"
+          },
+          {
+            "language": {
+              "code": "uk-UA",
+              "language": "Ukrainian (Ukraine)"
+            },
+            "source": "https://player.vimeo.com/video/692430398?h=9d14616689\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1401396297-d0302ec769a5491d9694d7f9849888bcb7d5f8538c3b52e457562660c2d3ac3e-d_640"
+          }
+        ],
+        "company_logo": "/icon/videos-logo-20.svg"
+      },
+      {
+        "original": {
+          "language": {
+            "code": "de-DE",
+            "language": "German (Germany)"
+          },
+          "source": "https://player.vimeo.com/video/692445909?h=1da3a8506b\u0026autoplay=1\u0026autopause=0",
+          "preview": "https://i.vimeocdn.com/video/1401429460-b825d1b5e99098add81da7cb562262cd0a2d9e383f08983a41b65076b2e458ff-d_640"
+        },
+        "translated": [
+          {
+            "language": {
+              "code": "en-GB",
+              "language": "English (United Kingdom)"
+            },
+            "source": "https://player.vimeo.com/video/692441847?h=022052db40\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1401428951-813ae4ccb503197eb4d6e6f4f24fe586af21140dcf0f3461712cf8e86fce281f-d_640"
+          },
+          {
+            "language": {
+              "code": "fr-FR",
+              "language": "French (France)"
+            },
+            "source": "https://player.vimeo.com/video/692444155?h=a34f5a52b7\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1401429623-e434be03f79fbfa41772c0dfc0232aa141161a63a13f39c91928fb747aa7867e-d_640"
+          },
+          {
+            "language": {
+              "code": "it-IT",
+              "language": "Italian (Italy)"
+            },
+            "source": "https://player.vimeo.com/video/692443331?h=c40dc81723\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1401429623-e434be03f79fbfa41772c0dfc0232aa141161a63a13f39c91928fb747aa7867e-d_640"
+          },
+          {
+            "language": {
+              "code": "ru-RU",
+              "language": "Russian (Russia)"
+            },
+            "source": "https://player.vimeo.com/video/692444938?h=ccf7b63050\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1401429623-e434be03f79fbfa41772c0dfc0232aa141161a63a13f39c91928fb747aa7867e-d_640"
+          },
+          {
+            "language": {
+              "code": "es-ES",
+              "language": "Spanish (Spain)"
+            },
+            "source": "https://player.vimeo.com/video/692442603?h=29ca73797b\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1401429623-e434be03f79fbfa41772c0dfc0232aa141161a63a13f39c91928fb747aa7867e-d_640"
+          }
+        ],
+        "company_logo": "/icon/videos-logo-7.svg"
+      },
+      {
+        "original": {
+          "language": {
+            "code": "de-DE",
+            "language": "German (Germany)"
+          },
+          "source": "https://player.vimeo.com/video/692452692?h=471d19dbde\u0026autoplay=1\u0026autopause=0",
+          "preview": "https://i.vimeocdn.com/video/1401440644-76da36d1fe39287f94291280b407d21efa6200c4eac3540c873819fd734b309c-d_640"
+        },
+        "translated": [
+          {
+            "language": {
+              "code": "fr-FR",
+              "language": "French (France)"
+            },
+            "source": "https://player.vimeo.com/video/668541508?h=61e18ef491\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1353780034-ace45667bccf562556819b7183787db11bc24e83e9e4e815e873d6c7434cdad3-d_640"
+          },
+          {
+            "language": {
+              "code": "it-IT",
+              "language": "Italian (Italy)"
+            },
+            "source": "https://player.vimeo.com/video/668542133?h=cbeea65e53\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1353780034-ace45667bccf562556819b7183787db11bc24e83e9e4e815e873d6c7434cdad3-d_640"
+          },
+          {
+            "language": {
+              "code": "ru-RU",
+              "language": "Russian (Russia)"
+            },
+            "source": "https://player.vimeo.com/video/668542741?h=edfdc61b91\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1353780034-ace45667bccf562556819b7183787db11bc24e83e9e4e815e873d6c7434cdad3-d_640"
+          }
+        ],
+        "company_logo": "/icon/videos-logo-21.svg"
+      },
+      {
+        "original": {
+          "language": {
+            "code": "de-DE",
+            "language": "German (Germany)"
+          },
+          "source": "https://player.vimeo.com/video/692467133?h=ec8c6460db\u0026autoplay=1\u0026autopause=0",
+          "preview": "https://i.vimeocdn.com/video/1401471165-012c2a372726400f7f4373815e58197d753354655f2d4b77879e71063a6d747c-d_640"
+        },
+        "translated": [
+          {
+            "language": {
+              "code": "ar-AE",
+              "language": "Arabic (United Arab Emirates)"
+            },
+            "source": "https://player.vimeo.com/video/692467576?h=5997e512ac\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1401472126-727f625d3591a75423b8d4f07b1f17d9a415612e131d81d2230810db93f31481-d_640"
+          },
+          {
+            "language": {
+              "code": "zh-CN",
+              "language": "Chinese (Simplified, China)"
+            },
+            "source": "https://player.vimeo.com/video/692467835?h=d109f03a58\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1401472126-727f625d3591a75423b8d4f07b1f17d9a415612e131d81d2230810db93f31481-d_640"
+          },
+          {
+            "language": {
+              "code": "fr-FR",
+              "language": "French (France)"
+            },
+            "source": "https://player.vimeo.com/video/692467927?h=644e5e73c8\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1401472126-727f625d3591a75423b8d4f07b1f17d9a415612e131d81d2230810db93f31481-d_640"
+          },
+          {
+            "language": {
+              "code": "it-IT",
+              "language": "Italian (Italy)"
+            },
+            "source": "https://player.vimeo.com/video/692468028?h=8216e2f2b7\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1401472126-727f625d3591a75423b8d4f07b1f17d9a415612e131d81d2230810db93f31481-d_640"
+          },
+          {
+            "language": {
+              "code": "es-ES",
+              "language": "Spanish (Spain)"
+            },
+            "source": "https://player.vimeo.com/video/692467640?h=82607298db\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1401472126-727f625d3591a75423b8d4f07b1f17d9a415612e131d81d2230810db93f31481-d_640"
+          },
+          {
+            "language": {
+              "code": "sv-SE",
+              "language": "Swedish (Sweden)"
+            },
+            "source": "https://player.vimeo.com/video/692467733?h=74dbda7099\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1401472126-727f625d3591a75423b8d4f07b1f17d9a415612e131d81d2230810db93f31481-d_640"
+          }
+        ],
+        "company_logo": "/icon/videos-logo-9.svg"
+      },
+      {
+        "original": {
+          "language": {
+            "code": "de-DE",
+            "language": "German (Germany)"
+          },
+          "source": "https://player.vimeo.com/video/691851464?h=1aca543b16\u0026autoplay=1\u0026autopause=0",
+          "preview": "https://i.vimeocdn.com/video/1400700472-fbea484e264187772022b1b1152992b1333fb1420e4c2e780230b8fcad946901-d_640"
+        },
+        "translated": [
+          {
+            "language": {
+              "code": "ar-AE",
+              "language": "Arabic (United Arab Emirates)"
+            },
+            "source": "https://player.vimeo.com/video/693367606?h=f00e42e122\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403199947-dacaca33f62790e3ea95ddd2763d868c6a2c6e724fa853962b9ddd4e4d1771a5-d_640"
+          },
+          {
+            "language": {
+              "code": "en-GB",
+              "language": "English (United Kingdom)"
+            },
+            "source": "https://player.vimeo.com/video/693365561?h=1699f19e29\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403199947-dacaca33f62790e3ea95ddd2763d868c6a2c6e724fa853962b9ddd4e4d1771a5-d_640"
+          },
+          {
+            "language": {
+              "code": "fr-FR",
+              "language": "French (France)"
+            },
+            "source": "https://player.vimeo.com/video/693383320?h=bc04c6407f\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403199947-dacaca33f62790e3ea95ddd2763d868c6a2c6e724fa853962b9ddd4e4d1771a5-d_640"
+          },
+          {
+            "language": {
+              "code": "hi-IN",
+              "language": "Hindi (India)"
+            },
+            "source": "https://player.vimeo.com/video/693384877?h=1900c28172\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403199947-dacaca33f62790e3ea95ddd2763d868c6a2c6e724fa853962b9ddd4e4d1771a5-d_640"
+          },
+          {
+            "language": {
+              "code": "it-IT",
+              "language": "Italian (Italy)"
+            },
+            "source": "https://player.vimeo.com/video/693387005?h=fac05207b0\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403199947-dacaca33f62790e3ea95ddd2763d868c6a2c6e724fa853962b9ddd4e4d1771a5-d_640"
+          },
+          {
+            "language": {
+              "code": "ru-RU",
+              "language": "Russian (Russia)"
+            },
+            "source": "https://player.vimeo.com/video/679069506?h=790f2ba780\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403199947-dacaca33f62790e3ea95ddd2763d868c6a2c6e724fa853962b9ddd4e4d1771a5-d_640"
+          },
+          {
+            "language": {
+              "code": "es-ES",
+              "language": "Spanish (Spain)"
+            },
+            "source": "https://player.vimeo.com/video/693381315?h=ff3d80cc34\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403199947-dacaca33f62790e3ea95ddd2763d868c6a2c6e724fa853962b9ddd4e4d1771a5-d_640"
+          }
+        ],
+        "company_logo": "/icon/videos-logo-22.svg"
+      },
+      {
+        "original": {
+          "language": {
+            "code": "en-GB",
+            "language": "English (United Kingdom)"
+          },
+          "source": "https://player.vimeo.com/video/691860347?h=a1d5667f02\u0026autoplay=1\u0026autopause=0",
+          "preview": "https://i.vimeocdn.com/video/1402676657-93970f2f3075e9efc08f5cb2f2af8925104603f5c0d4284482e81ca4a721cf07-d_640"
+        },
+        "translated": [
+          {
+            "language": {
+              "code": "ar-AE",
+              "language": "Arabic (United Arab Emirates)"
+            },
+            "source": "https://player.vimeo.com/video/693350973?h=73dc72a1ae\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403190940-b1110a294f2d79b6f94f20a74694294cf685c47283bcd5f4f201316fec996d7d-d_640"
+          },
+          {
+            "language": {
+              "code": "zh-CN",
+              "language": "Chinese (Simplified, China)"
+            },
+            "source": "https://player.vimeo.com/video/693343016?h=f84fd29cf3\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403190940-b1110a294f2d79b6f94f20a74694294cf685c47283bcd5f4f201316fec996d7d-d_640"
+          },
+          {
+            "language": {
+              "code": "fr-FR",
+              "language": "French (France)"
+            },
+            "source": "https://player.vimeo.com/video/693348435?h=c3226e4c56\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403190940-b1110a294f2d79b6f94f20a74694294cf685c47283bcd5f4f201316fec996d7d-d_640"
+          },
+          {
+            "language": {
+              "code": "de-DE",
+              "language": "German (Germany)"
+            },
+            "source": "https://player.vimeo.com/video/693352296?h=77c32e876d\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403190940-b1110a294f2d79b6f94f20a74694294cf685c47283bcd5f4f201316fec996d7d-d_640"
+          },
+          {
+            "language": {
+              "code": "hi-IN",
+              "language": "Hindi (India)"
+            },
+            "source": "https://player.vimeo.com/video/693347176?h=0a53823daa\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403190940-b1110a294f2d79b6f94f20a74694294cf685c47283bcd5f4f201316fec996d7d-d_640"
+          },
+          {
+            "language": {
+              "code": "it-IT",
+              "language": "Italian (Italy)"
+            },
+            "source": "https://player.vimeo.com/video/693345829?h=f9d4ab7b6e\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403190940-b1110a294f2d79b6f94f20a74694294cf685c47283bcd5f4f201316fec996d7d-d_640"
+          },
+          {
+            "language": {
+              "code": "pl-PL",
+              "language": "Polish (Poland)"
+            },
+            "source": "https://player.vimeo.com/video/693344443?h=7f8243fc92\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403190940-b1110a294f2d79b6f94f20a74694294cf685c47283bcd5f4f201316fec996d7d-d_640"
+          },
+          {
+            "language": {
+              "code": "ru-RU",
+              "language": "Russian (Russia)"
+            },
+            "source": "https://player.vimeo.com/video/693341634?h=b46fd291b0\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403190940-b1110a294f2d79b6f94f20a74694294cf685c47283bcd5f4f201316fec996d7d-d_640"
+          }
+        ],
+        "company_logo": "/icon/videos-logo-11.svg"
+      },
+      {
+        "original": {
+          "language": {
+            "code": "se-SE",
+            "language": "Swedish (Sweden)"
+          },
+          "source": "https://player.vimeo.com/video/693349596?h=a6544d1a63\u0026autoplay=1\u0026autopause=0",
+          "preview": "https://i.vimeocdn.com/video/1399784229-0f9f5d56c325badc1c02e60f4e2389a13bf296258d7036e2a2cf008aef2888fd-d_640"
+        },
+        "translated": [
+          {
+            "language": {
+              "code": "pl-PL",
+              "language": "Polish (Poland)"
+            },
+            "source": "https://player.vimeo.com/video/691454099?h=566134068e\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1399784229-0f9f5d56c325badc1c02e60f4e2389a13bf296258d7036e2a2cf008aef2888fd-d_640"
+          },
+          {
+            "language": {
+              "code": "ar-AE",
+              "language": "Arabic (United Arab Emirates)"
+            },
+            "source": "https://player.vimeo.com/video/693311298?h=f37e384f60\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403098725-38991ad5719e94472b1ff6d15543673bf413d6b9de4073ad3ffa1a7597869306-d_640"
+          },
+          {
+            "language": {
+              "code": "bn-BN",
+              "language": "Bengali"
+            },
+            "source": "https://player.vimeo.com/video/693309806?h=f918308a78\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403098725-38991ad5719e94472b1ff6d15543673bf413d6b9de4073ad3ffa1a7597869306-d_640"
+          },
+          {
+            "language": {
+              "code": "zh-CN",
+              "language": "Chinese (Simplified, China)"
+            },
+            "source": "https://player.vimeo.com/video/693292471?h=edcde5956b\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403098725-38991ad5719e94472b1ff6d15543673bf413d6b9de4073ad3ffa1a7597869306-d_640"
+          },
+          {
+            "language": {
+              "code": "en-GB",
+              "language": "English (United Kingdom)"
+            },
+            "source": "https://player.vimeo.com/video/693290555?h=d5fbe8ba63\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403098725-38991ad5719e94472b1ff6d15543673bf413d6b9de4073ad3ffa1a7597869306-d_640"
+          },
+          {
+            "language": {
+              "code": "fr-FR",
+              "language": "French (France)"
+            },
+            "source": "https://player.vimeo.com/video/693288743?h=ab44d3485b\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403098725-38991ad5719e94472b1ff6d15543673bf413d6b9de4073ad3ffa1a7597869306-d_640"
+          },
+          {
+            "language": {
+              "code": "de-DE",
+              "language": "German (Germany)"
+            },
+            "source": "https://player.vimeo.com/video/693282527?h=be5393765a\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403098725-38991ad5719e94472b1ff6d15543673bf413d6b9de4073ad3ffa1a7597869306-d_640"
+          },
+          {
+            "language": {
+              "code": "hi-IN",
+              "language": "Hindi (India)"
+            },
+            "source": "https://player.vimeo.com/video/693305402?h=595572d067\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403098725-38991ad5719e94472b1ff6d15543673bf413d6b9de4073ad3ffa1a7597869306-d_640"
+          },
+          {
+            "language": {
+              "code": "it-IT",
+              "language": "Italian (Italy)"
+            },
+            "source": "https://player.vimeo.com/video/693286896?h=a74e708025\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403098725-38991ad5719e94472b1ff6d15543673bf413d6b9de4073ad3ffa1a7597869306-d_640"
+          },
+          {
+            "language": {
+              "code": "ja-JP",
+              "language": "Japanese (Japan)"
+            },
+            "source": "https://player.vimeo.com/video/693302996?h=9bd61cbfae\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403098725-38991ad5719e94472b1ff6d15543673bf413d6b9de4073ad3ffa1a7597869306-d_640"
+          },
+          {
+            "language": {
+              "code": "ko-KR",
+              "language": "Korean (South Korea)"
+            },
+            "source": "https://player.vimeo.com/video/693300328?h=d3acf46f5a\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403098725-38991ad5719e94472b1ff6d15543673bf413d6b9de4073ad3ffa1a7597869306-d_640"
+          },
+          {
+            "language": {
+              "code": "mr-IN",
+              "language": "Marathi (India)"
+            },
+            "source": "https://player.vimeo.com/video/693297914?h=d094c44ba3\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403098725-38991ad5719e94472b1ff6d15543673bf413d6b9de4073ad3ffa1a7597869306-d_640"
+          },
+          {
+            "language": {
+              "code": "pt-PT",
+              "language": "Portuguese (Portugal)"
+            },
+            "source": "https://player.vimeo.com/video/693296223?h=24139f55fe\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403098725-38991ad5719e94472b1ff6d15543673bf413d6b9de4073ad3ffa1a7597869306-d_640"
+          },
+          {
+            "language": {
+              "code": "ru-RU",
+              "language": "Russian (Russia)"
+            },
+            "source": "https://player.vimeo.com/video/693284831?h=16095c0cc1\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403098725-38991ad5719e94472b1ff6d15543673bf413d6b9de4073ad3ffa1a7597869306-d_640"
+          },
+          {
+            "language": {
+              "code": "es-ES",
+              "language": "Spanish (Spain)"
+            },
+            "source": "https://player.vimeo.com/video/693307762?h=9fea67f634\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403098725-38991ad5719e94472b1ff6d15543673bf413d6b9de4073ad3ffa1a7597869306-d_640"
+          },
+          {
+            "language": {
+              "code": "tr-TR",
+              "language": "Turkish (Turkey)"
+            },
+            "source": "https://player.vimeo.com/video/693294610?h=7800f4902c\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1403098725-38991ad5719e94472b1ff6d15543673bf413d6b9de4073ad3ffa1a7597869306-d_640"
+          }
+        ],
+        "company_logo": "/icon/videos-logo-13.svg"
+      },
+      {
+        "original": {
+          "language": {
+            "code": "sv-SE",
+            "language": "Swedish (Sweden)"
+          },
+          "source": "https://player.vimeo.com/video/693177499?h=14d003ccdc\u0026autoplay=1\u0026autopause=0",
+          "preview": "https://i.vimeocdn.com/video/1402869394-b13003fb5798ad0e98dd6c99d33872cca90e402c2aaf5965189521807821473b-d_640"
+        },
+        "translated": [
+          {
+            "language": {
+              "code": "ar-AE",
+              "language": "Arabic (United Arab Emirates)"
+            },
+            "source": "https://player.vimeo.com/video/693177499?h=14d003ccdc\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1368205437-a6cc2cbeb5fc5c2d478810ef4801a73744ae2b0968e38a4c7a0b3c8e07affa05-d_640"
+          },
+          {
+            "language": {
+              "code": "en-GB",
+              "language": "English (United Kingdom)"
+            },
+            "source": "https://player.vimeo.com/video/674986835?h=bff4d33afb\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1368205437-a6cc2cbeb5fc5c2d478810ef4801a73744ae2b0968e38a4c7a0b3c8e07affa05-d_640"
+          },
+          {
+            "language": {
+              "code": "de-DE",
+              "language": "German (Germany)"
+            },
+            "source": "https://player.vimeo.com/video/674984367?h=fcfabdae7c\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1368205437-a6cc2cbeb5fc5c2d478810ef4801a73744ae2b0968e38a4c7a0b3c8e07affa05-d_640"
+          },
+          {
+            "language": {
+              "code": "hi-IN",
+              "language": "Hindi (India)"
+            },
+            "source": "https://player.vimeo.com/video/674992120?h=490eabed6f\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1368205437-a6cc2cbeb5fc5c2d478810ef4801a73744ae2b0968e38a4c7a0b3c8e07affa05-d_640"
+          },
+          {
+            "language": {
+              "code": "it-IT",
+              "language": "Italian (Italy)"
+            },
+            "source": "https://player.vimeo.com/video/674994657?h=e24a5ad391\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1368205437-a6cc2cbeb5fc5c2d478810ef4801a73744ae2b0968e38a4c7a0b3c8e07affa05-d_640"
+          },
+          {
+            "language": {
+              "code": "pl-PL",
+              "language": "Polish (Poland)"
+            },
+            "source": "https://player.vimeo.com/video/674997305?h=8b4c04a15a\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1368205437-a6cc2cbeb5fc5c2d478810ef4801a73744ae2b0968e38a4c7a0b3c8e07affa05-d_640"
+          },
+          {
+            "language": {
+              "code": "pt-PT",
+              "language": "Portuguese (Portugal)"
+            },
+            "source": "https://player.vimeo.com/video/674999857?h=66a5484509\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1368205437-a6cc2cbeb5fc5c2d478810ef4801a73744ae2b0968e38a4c7a0b3c8e07affa05-d_640"
+          },
+          {
+            "language": {
+              "code": "ru-RU",
+              "language": "Russian (Russia)"
+            },
+            "source": "https://player.vimeo.com/video/675004662?h=aba65e55d3\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1368205437-a6cc2cbeb5fc5c2d478810ef4801a73744ae2b0968e38a4c7a0b3c8e07affa05-d_640"
+          },
+          {
+            "language": {
+              "code": "es-ES",
+              "language": "Spanish (Spain)"
+            },
+            "source": "https://player.vimeo.com/video/674989465?h=e284da4d1b\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1368205437-a6cc2cbeb5fc5c2d478810ef4801a73744ae2b0968e38a4c7a0b3c8e07affa05-d_640"
+          },
+          {
+            "language": {
+              "code": "tr-TR",
+              "language": "Turkish (Turkey)"
+            },
+            "source": "https://player.vimeo.com/video/675002311?h=2a2847d8fa\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1368205437-a6cc2cbeb5fc5c2d478810ef4801a73744ae2b0968e38a4c7a0b3c8e07affa05-d_640"
+          }
+        ],
+        "company_logo": "/icon/videos-logo-7.svg"
+      },
+      {
+        "original": {
+          "language": {
+            "code": "de-DE",
+            "language": "German (Germany)"
+          },
+          "source": "https://player.vimeo.com/video/652524104?h=6061adc8d6\u0026autoplay=1\u0026autopause=0",
+          "preview": "https://i.vimeocdn.com/video/1316734869-9e02800e6be4d7b364195538e446402262dccc42c9e2e6b662ebbc2d0186fc2d-d_640"
+        },
+        "translated": [
+          {
+            "language": {
+              "code": "ar-AE",
+              "language": "Arabic (United Arab Emirates)"
+            },
+            "source": "https://player.vimeo.com/video/697283011?h=d9c78f28c2\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1410292524-d740d63209281acc039f51f83c2f2fe9ba8b43fed7cfb0028e9bcef03e69b089-d_640"
+          },
+          {
+            "language": {
+              "code": "zh-CN",
+              "language": "Chinese (Simplified, China)"
+            },
+            "source": "https://player.vimeo.com/video/697284620?h=88abc055c8\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1410293081-980ac0aceb8cad2e4bc14c0d2f417058eaccf06470882441fae36be48c2d8df6-d_640"
+          },
+          {
+            "language": {
+              "code": "en-GB",
+              "language": "English (United Kingdom)"
+            },
+            "source": "https://player.vimeo.com/video/697429256?h=33257e70ae\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1410293081-980ac0aceb8cad2e4bc14c0d2f417058eaccf06470882441fae36be48c2d8df6-d_640"
+          },
+          {
+            "language": {
+              "code": "fr-FR",
+              "language": "French (France)"
+            },
+            "source": "https://player.vimeo.com/video/697287762?h=ea00d5e31e\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1410293081-980ac0aceb8cad2e4bc14c0d2f417058eaccf06470882441fae36be48c2d8df6-d_640"
+          },
+          {
+            "language": {
+              "code": "it-IT",
+              "language": "Italian (Italy)"
+            },
+            "source": "https://player.vimeo.com/video/697294695?h=c800f45255\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1410293081-980ac0aceb8cad2e4bc14c0d2f417058eaccf06470882441fae36be48c2d8df6-d_640"
+          },
+          {
+            "language": {
+              "code": "ja-JP",
+              "language": "Japanese (Japan)"
+            },
+            "source": "https://player.vimeo.com/video/697301777?h=f6357d1027\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1410293081-980ac0aceb8cad2e4bc14c0d2f417058eaccf06470882441fae36be48c2d8df6-d_640"
+          },
+          {
+            "language": {
+              "code": "ru-RU",
+              "language": "Russian (Russia)"
+            },
+            "source": "https://player.vimeo.com/video/697303452?h=b5c4f15523\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1410293081-980ac0aceb8cad2e4bc14c0d2f417058eaccf06470882441fae36be48c2d8df6-d_640"
+          },
+          {
+            "language": {
+              "code": "es-ES",
+              "language": "Spanish (Spain)"
+            },
+            "source": "https://player.vimeo.com/video/697286160?h=d810bf3d6b\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1410293081-980ac0aceb8cad2e4bc14c0d2f417058eaccf06470882441fae36be48c2d8df6-d_640"
+          },
+          {
+            "language": {
+              "code": "uk-UA",
+              "language": "Ukrainian (Ukraine)"
+            },
+            "source": "https://player.vimeo.com/video/697305053?h=1f41070e32\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1410293081-980ac0aceb8cad2e4bc14c0d2f417058eaccf06470882441fae36be48c2d8df6-d_640"
+          }
+        ],
+        "company_logo": "/icon/videos-logo-14.svg"
+      },
+      {
+        "original": {
+          "language": {
+            "code": "de-DE",
+            "language": "German (Germany)"
+          },
+          "source": "https://player.vimeo.com/video/693095216?h=f5417e29c9\u0026autoplay=1\u0026autopause=0",
+          "preview": "https://i.vimeocdn.com/video/1402742356-b91d11b3463b636e37b418aad07821a4ab7133656ed1eb0faffa8c767fa3a157-d_640"
+        },
+        "translated": [
+          {
+            "language": {
+              "code": "ar-AE",
+              "language": "Arabic (United Arab Emirates)"
+            },
+            "source": "https://player.vimeo.com/video/674572192?h=0f9eb6a006\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1367416665-087d6e5b450cda66fbae47e4be3bb24342c2a3335753d5972ba88c02866c4ebf-d_640"
+          },
+          {
+            "language": {
+              "code": "zh-CN",
+              "language": "Chinese (Simplified, China)"
+            },
+            "source": "https://player.vimeo.com/video/674569306?h=6b19805682\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1367402005-d1bb2552374f205e45695e4e9f30f0d8bce2264a13ca170a8c52d46f30aab49c-d_640"
+          },
+          {
+            "language": {
+              "code": "en-GB",
+              "language": "English (United Kingdom)"
+            },
+            "source": "https://player.vimeo.com/video/674588716?h=6dcafb28d1\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1367402005-d1bb2552374f205e45695e4e9f30f0d8bce2264a13ca170a8c52d46f30aab49c-d_640"
+          },
+          {
+            "language": {
+              "code": "fr-FR",
+              "language": "French (France)"
+            },
+            "source": "https://player.vimeo.com/video/674583436?h=2a405defc6\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1367402005-d1bb2552374f205e45695e4e9f30f0d8bce2264a13ca170a8c52d46f30aab49c-d_640"
+          },
+          {
+            "language": {
+              "code": "hi-IN",
+              "language": "Hindi (India)"
+            },
+            "source": "https://player.vimeo.com/video/674580652?h=0e4ab2bd0b\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1367402005-d1bb2552374f205e45695e4e9f30f0d8bce2264a13ca170a8c52d46f30aab49c-d_640"
+          },
+          {
+            "language": {
+              "code": "it-IT",
+              "language": "Italian (Italy)"
+            },
+            "source": "https://player.vimeo.com/video/674578062?h=dee5a141af\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1367402005-d1bb2552374f205e45695e4e9f30f0d8bce2264a13ca170a8c52d46f30aab49c-d_640"
+          },
+          {
+            "language": {
+              "code": "pl-PL",
+              "language": "Polish (Poland)"
+            },
+            "source": "https://player.vimeo.com/video/693098719?h=0e375d72ea\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1367402005-d1bb2552374f205e45695e4e9f30f0d8bce2264a13ca170a8c52d46f30aab49c-d_640"
+          },
+          {
+            "language": {
+              "code": "ru-RU",
+              "language": "Russian (Russia)"
+            },
+            "source": "https://player.vimeo.com/video/674566524?h=4f6a95f437\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1367402005-d1bb2552374f205e45695e4e9f30f0d8bce2264a13ca170a8c52d46f30aab49c-d_640"
+          },
+          {
+            "language": {
+              "code": "es-ES",
+              "language": "Spanish (Spain)"
+            },
+            "source": "https://player.vimeo.com/video/674585985?h=e65e6b5f0e\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1367402005-d1bb2552374f205e45695e4e9f30f0d8bce2264a13ca170a8c52d46f30aab49c-d_640"
+          },
+          {
+            "language": {
+              "code": "tr-TR",
+              "language": "Turkish (Turkey)"
+            },
+            "source": "https://player.vimeo.com/video/674575400?h=9f1e4154e6\u0026autoplay=1\u0026autopause=0",
+            "preview": "https://i.vimeocdn.com/video/1367402005-d1bb2552374f205e45695e4e9f30f0d8bce2264a13ca170a8c52d46f30aab49c-d_640"
+          }
+        ],
+        "company_logo": "/icon/videos-logo-5.svg"
+      }
+    ],
+    "button": {
+      "text": "Become a customer",
+      "link": "https://vidby.com/",
+      "new-tab": false
+    }
+  },
+  "reviews_section": {
+    "title": "What our customers say",
+    "full-text-here": "Full text here",
+    "reviews": [
+      {
+        "author": {
+          "profile-image": "/image/review-1.png",
+          "name": "Elyne Hager",
+          "profession": "Branding und Content Marketing",
+          "company": {
+            "company": "Läderach AG",
+            "url": "https://laderach.com/"
+          }
+        },
+        "stars": 5,
+        "content": "vidby is excellent for training our global employees. We have never been able to produce our how-to videos as easy and understandable as with vidby.",
+        "full-content-url": ""
+      },
+      {
+        "author": {
+          "profile-image": "/image/review-2.png",
+          "name": "Stepan Mykhailov",
+          "profession": "Co-Founder/Owner",
+          "company": {
+            "company": "Air Media-Tech",
+            "url": "https://air.io/en"
+          }
+        },
+        "stars": 5,
+        "content": "As Vidby platform can be useful for our work with a global of creators (from 44 countries) as well as for collaboration of our own team (240 employees in 5 countries), enabling translation into 67 languages and 60 dialects, we currently discuss deeper cooperation and strategic partnership with Vidby. We expect this enhanced collaboration to help both our companies to scale rapidly.",
+        "full-content-url": "https://vidby.com/reviews/air-vidby-review/"
+      },
+      {
+        "author": {
+          "profile-image": "/image/review-3.png",
+          "name": "Eray Müller",
+          "profession": "Senior Communications Manager ",
+          "company": {
+            "company": "Siemens Schweiz AG",
+            "url": "https://www.siemens.com/"
+          }
+        },
+        "stars": 5,
+        "content": "Practical, fast and good translation solution for internal use of employee videos.",
+        "full-content-url": ""
+      },
+      {
+        "author": {
+          "profile-image": "/image/review-4.png",
+          "name": "Silvan Merki",
+          "profession": "Chief Communications Officer ",
+          "company": {
+            "company": "Implenia AG",
+            "url": "https://implenia.com/"
+          }
+        },
+        "stars": 5,
+        "content": "I have tested the automated translation with some videos - also in less frequently used language. The translation is very fast and already amazingly good in quality - the whole context absolutely well understandable.",
+        "full-content-url": ""
+      },
+      {
+        "author": {
+          "profile-image": "/image/review-5.png",
+          "name": "Mike Fuhrmann 123",
+          "profession": "Chief Communications Officer ",
+          "company": {
+            "company": "Generali AG",
+            "url": "https://www.generali.ch/"
+          }
+        },
+        "stars": 5,
+        "content": "Effective tool, which can be used well for simple, internal educational videos.",
+        "full-content-url": ""
+      }
+    ]
+  }
+}

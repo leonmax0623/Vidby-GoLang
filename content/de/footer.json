@@ -1,0 +1,100 @@
+{
+  "service": {
+    "title": "Service",
+    "items": [
+      {
+        "text": "Produkte",
+        "link": "/de/products",
+        "new-tab": false
+      },
+      {
+        "text": "Vorteile",
+        "link": "/de/advantages",
+        "new-tab": false
+      },
+      {
+        "text": "Preise",
+        "link": "/de/prices",
+        "new-tab": false
+      },
+      {
+        "text": "Stimmen",
+        "link": "/de/voices",
+        "new-tab": false
+      }
+    ]
+  },
+  "legal-conditions": {
+    "title": "Gesellschaft",
+    "items": [
+      {
+        "text": "Investor",
+        "link": "/de/investors",
+        "new-tab": false
+      },
+      {
+        "text": "Über uns",
+        "link": "/de/about",
+        "new-tab": false
+      },
+      {
+        "text": "Datenschutz",
+        "link": "/privacy-policy",
+        "new-tab": false
+      },
+      {
+        "text": "AGB",
+        "link": "/terms-of-use",
+        "new-tab": false
+      }
+    ]
+  },
+  "contacts": {
+    "title": "Kontakt",
+    "items": [
+      "Suurstoffi 8\n6343 Rotkreuz\nSwitzerland"
+    ]
+  },
+  "follow-us": {
+    "title": "Folgen Sie uns",
+    "items": [
+      {
+        "text": "Linkedin",
+        "link": "https://www.linkedin.com/company/vidbyofficial/mycompany/",
+        "new-tab": true
+      },
+      {
+        "text": "Facebook",
+        "link": "https://www.facebook.com/Vidby-automatic-video-translation-and-dubbing-103360358845599/",
+        "new-tab": true
+      }
+    ]
+  },
+  "payment-methods": {
+    "title": "Zahlungsmethoden",
+    "items": [
+      "/icon/mc.svg",
+      "/icon/visa.svg",
+      "/icon/apay.svg",
+      "/icon/paypal.svg",
+      "/icon/gpay.svg",
+      "/icon/swift.svg"
+    ]
+  },
+  "available-languages": {
+    "selected": {
+      "code": "de",
+      "language": "Deutsch"
+    },
+    "items": [
+      {
+        "code": "en",
+        "language": "English"
+      }
+    ]
+  },
+  "bottom": {
+    "all-rights-reserved": "All rights reserved",
+    "company": "© 2022 vidby AG"
+  }
+}

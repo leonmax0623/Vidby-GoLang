@@ -1,0 +1,30 @@
+{
+  "seo": {
+    "title": "Vidby - Voices",
+    "description": "Try vidby now and expand your business to international markets. Translate and dub videos with up to 99% accuracy in 70+ languages using AI."
+  },
+  "title": "Listening to sample voices",
+  "button": "Share this list",
+  "columns": {
+    "language": "Language",
+    "gender": "Gender",
+    "voiceId": "Voice ID",
+    "listen": "Listen",
+    "favorites": "Favorites",
+    "comments": "Comments"
+  },
+  "filters": {
+    "resetFilter": "Reset Filter",
+    "search": "Search",
+    "notFound": "No results were found for this query"
+  },
+  "foundMessage": {
+    "idle": "Showing {amount} voices",
+    "filtered": "Showing {filtered} voices (filtered from {amount} total voices)",
+    "notFound": "No matching records found"
+  },
+  "popup": {
+    "title": "Share list of voices:",
+    "button": "Copy page link"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "seo": {
+    "title": "Vidby - About us",
+    "description": "Try vidby now and expand your business to international markets. Translate and dub videos with up to 99% accuracy in 70+ languages using AI.",
+    "custom-scripts-and-styles": {
+      "before-head": "",
+      "before-body": ""
+    }
+  },
+  "main-section": {
+    "title": "Translate videos automatically: \u003cspan class=\"selected\"\u003eboundless knowledge\u003c/span\u003e for international \u003cspan class=\"selected\"\u003eteams and organizations\u003c/span\u003e",
+    "mission": {
+      "title": "Our mission",
+      "content": "\u003cp\u003eMaking any video content accessible to anyone, anywhere in the world. For better understanding, diversity and connected people and markets. vidby - \u003cspan class=\"selected\"\u003epreserving linguistic diversity and knowledge\u003c/span\u003e.\u003c/p\u003e\u003cp\u003eWith vidby, intercultural teams get a simple and fast technology for the automatic translation of videos. The moving image medium thus takes on a new role in intercultural collaboration for building knowledge and communicating content and messages.\u003c/p\u003e"
+    },
+    "story": {
+      "title": "vidby’s story",
+      "content": "\u003cp\u003evidby is based on advanced methods and algorithms for automatic translation of video soundtracks. An international team of scientists and business and marketing experts uses the technology for a unique SaaS application: \u003ca target=\"_self\" href=\"http://vidby.com/\"\u003evidby.com\u003c/a\u003e.\u003c/p\u003e\u003cp\u003eFounded in the fall of 2021, Switzerland-based vidby AG markets the technology to video and communications professionals.\u003c/p\u003e"
+    },
+    "goals": [
+      {
+        "date": "Sep 2021",
+        "achieved": true,
+        "text": "Registration of vidby AG",
+        "selected": false
+      },
+      {
+        "date": "Oct 2021",
+        "achieved": true,
+        "text": "Market launch of the first commercial version",
+        "selected": false
+      },
+      {
+        "date": "Nov 2021",
+        "achieved": true,
+        "text": "Marketing hypothesis testing",
+        "selected": false
+      },
+      {
+        "date": "Dec 2021",
+        "achieved": true,
+        "text": "Improvement of the order processing form",
+        "selected": false
+      },
+      {
+        "date": "Jan 2022",
+        "achieved": true,
+        "text": "Improving the quality of translation",
+        "selected": false
+      },
+      {
+        "date": "Feb 2022",
+        "achieved": true,
+        "text": "Updated transcript editor",
+        "selected": false
+      },
+      {
+        "date": "Mar 2022",
+        "achieved": true,
+        "text": "Subscription for business customers",
+        "selected": false
+      },
+      {
+        "date": "Apr 2022",
+        "achieved": true,
+        "text": "Partnership with major influencer networks",
+        "selected": false
+      },
+      {
+        "date": "May 2022",
+        "achieved": true,
+        "text": "Entry into the online education market",
+        "selected": false
+      },
+      {
+        "date": "2022",
+        "achieved": false,
+        "text": "Development of speech technologies (new voices broken down by age of emotion)",
+        "selected": false
+      },
+      {
+        "date": "2023",
+        "achieved": false,
+        "text": "Entry into the US market",
+        "selected": false
+      }
+    ]
+  },
+  "commitment-section": {
+    "title": "Our commitment",
+    "content": "We believe in a world of boundless knowledge and easy sharing across all language barriers. The medium of video provides a fast and sustainable spread of knowledge and strengthens social relationships that can make our planet a better place.",
+    "image": "/image/about-pic-1.png",
+    "blurred-image": "/image/about-pic-blur.png"
+  },
+  "start-translation-section": {
+    "title": "\u003cspan class=\"selected\"\u003e\u003cspan\u003evidby - preserving\u003c/span\u003e\u003cspan\u003elinguistic diversity and knowledge\u003c/span\u003e\u003c/span\u003e",
+    "button": {
+      "text": "Start video translation",
+      "link": "https://vidby.com/",
+      "new-tab": false
+    }
+  }
+}

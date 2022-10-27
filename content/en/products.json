@@ -1,0 +1,71 @@
+{
+  "seo": {
+    "title": "Vidby - Advantages",
+    "description": "Try vidby now and expand your business to international markets. Translate and dub videos with up to 99% accuracy in 70+ languages using AI.",
+    "custom-scripts-and-styles": {
+      "before-head": "",
+      "before-body": ""
+    }
+  },
+  "main_section": {
+    "title": "\u003cspan class=\"selected\"\u003eArtificial intelligence\u003c/span\u003e from vidby translates and dubs videos",
+    "content": "\u003cp\u003eStart-ups and SMEs use our software just as much as large, internationally active organizations, NGOs and influencers and bloggers.\u003c/p\u003e\u003cp\u003eWith vidby, you can enter new markets cheaper and effectively without language barriers, lead international teams, and embed knowledge regardless of location or language.\u003c/p\u003e\u003cp\u003eVidby also researches and works in the areas of live translation as well as conference translation simultaneously in over 70 languages – in all language pairs.\u003c/p\u003e",
+    "button": {
+      "text": "Start video translation",
+      "link": "https://vidby.com/",
+      "new-tab": false
+    }
+  },
+  "advantages_section": {
+    "advantages": [
+      {
+        "title": "Increase reach, views and subscribers",
+        "content": "Our technologies allow you to get high-quality video translations in over \u003cstrong\u003e70 languages.\u003c/strong\u003e This allows you to successfully bring your videos to the world with all the stories, messages and content.",
+        "icon": "/icon/product-icon-1.svg"
+      },
+      {
+        "title": "Achieve higher income and new business ideas",
+        "content": "With vidby, you can reach new customers \u003cstrong\u003efrom other countries\u003c/strong\u003e in no time. Among other things, this opens up new business opportunities and additional revenue from your digital advertising campaigns.",
+        "icon": "/icon/product-icon-2.svg"
+      },
+      {
+        "title": "Quick translation result",
+        "content": "We have spared no resources in developing a translation software that \u003cstrong\u003egives you both quality and speed.\u003c/strong\u003e The result: one minute of original video is completely translated and dubbed for you in only about two minutes.",
+        "icon": "/icon/product-icon-3.svg"
+      },
+      {
+        "title": "Minimum investment, maximum result and quality",
+        "content": "With a few clicks, you can get your video translation and dubbing at a cheap rate. No more need for complicated contracts, dubbing artists, sound engineers, translators or expensive studio equipment. Video translation \u003cstrong\u003eis efficient and cost-effective.\u003c/strong\u003e",
+        "icon": "/icon/product-icon-4.svg"
+      }
+    ],
+    "title": "Our products bring you advantages"
+  },
+  "develop_section": {
+    "title": "We develop and research new products",
+    "content": "\u003cp\u003evidby develops and researches new, sophisticated voice interfaces for natural interaction. The goal: Different voice colours with a variety of emotional expressions are offered to match the protagonists of the videos. The voices can be clearly assigned to an age category and a biological sex.\u003c/p\u003e\u003cp\u003eIn the future, vidby\u0026#x27;s speech interfaces will even be able to convey emotions such as joy, anger, amazement or sadness. vidby\u0026#x27;s sophisticated translation technology will ultimately even recognize emotions and intonations. It defines sentence boundaries for real-time translation.\u003c/p\u003e\u003cp\u003eSpeech and music can also be subsequently removed from an audio file. Spelling and punctuation is automatic.\u003c/p\u003e",
+    "card": {
+      "title": "Our current developments:",
+      "1": {
+        "title": "Emotions",
+        "items": [
+          "Joy",
+          "Sadness",
+          "Anger",
+          "Surprise",
+          "Fear",
+          "Disgust"
+        ]
+      },
+      "2": {
+        "title": "Speech synthesizer",
+        "items": [
+          "Children",
+          "Adults",
+          "Teenagers",
+          "Seniors"
+        ]
+      }
+    }
+  }
+}

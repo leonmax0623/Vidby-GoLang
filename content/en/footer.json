@@ -1,0 +1,96 @@
+{
+  "service": {
+    "title": "Service",
+    "items": [
+      {
+        "text": "Products",
+        "link": "/products",
+        "new-tab": false
+      },
+      {
+        "text": "Advantages",
+        "link": "/advantages",
+        "new-tab": false
+      },
+      {
+        "text": "Prices",
+        "link": "/prices",
+        "new-tab": false
+      },
+      {
+        "text": "Voices",
+        "link": "/voices",
+        "new-tab": false
+      }
+    ]
+  },
+  "legal-conditions": {
+    "title": "Company",
+    "items": [
+      {
+        "text": "About us",
+        "link": "/about",
+        "new-tab": false
+      },
+      {
+        "text": "Investors",
+        "link": "/investors",
+        "new-tab": false
+      },
+      {
+        "text": "Privacy Policy",
+        "link": "/privacy-policy",
+        "new-tab": false
+      },
+      {
+        "text": "Terms of use",
+        "link": "/terms-of-use",
+        "new-tab": false
+      }
+    ]
+  },
+  "contacts": {
+    "title": "Contacts",
+    "items": [
+      "Suurstoffi 8\n6343 Rotkreuz\nSwitzerland"
+    ]
+  },
+  "follow-us": {
+    "title": "Follow us",
+    "items": [
+      {
+        "text": "Linkedin",
+        "link": "https://www.linkedin.com/company/vidbyofficial/mycompany/",
+        "new-tab": true
+      },
+      {
+        "text": "Facebook",
+        "link": "https://www.facebook.com/Vidby-automatic-video-translation-and-dubbing-103360358845599/",
+        "new-tab": true
+      }
+    ]
+  },
+  "payment-methods": {
+    "title": "Payment methods",
+    "items": [
+      "/icon/mc.svg",
+      "/icon/visa.svg",
+      "/icon/apay.svg",
+      "/icon/paypal.svg",
+      "/icon/gpay.svg",
+      "/icon/swift.svg"
+    ]
+  },
+  "available-languages": {
+    "selected": {
+      "code": "en",
+      "language": "English"
+    },
+    "items": [
+      {
+        "code": "de",
+        "language": "Germany"
+      }
+    ]
+  }
+}
